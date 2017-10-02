@@ -19,6 +19,7 @@
   - [ros2_talker_android, ros2_listener_android](https://github.com/esteve/ros2_android_examples) - Example Android apps for the ROS2 Java bindings.
 - "System" bindings
   - [rclandroid](https://github.com/esteve/ros2_android/tree/master/rclandroid) - Android API for ROS2.
+  - [rclnodejs](https://github.com/RobotWebTools/rclnodejs) - Node.js version of ROS2.0 client.
 - Client libraries
   - [rclcpp](https://github.com/ros2/rclcpp) - ROS Client Library for C++.
   - [rclpy](https://github.com/ros2/rclpy) - ROS Client Library for Python.
