@@ -10,7 +10,7 @@
 - [Books](#books)
 - [Courses](#courses)
 
-## Packages
+## Packages (or libraries)
 
 - Examples
   - [examples/rclcpp](https://github.com/ros2/examples/tree/master/rclcpp) - C++ examples.
@@ -20,6 +20,7 @@
 - "System" bindings
   - [rclandroid](https://github.com/esteve/ros2_android/tree/master/rclandroid) - Android API for ROS2.
   - [rclnodejs](https://github.com/RobotWebTools/rclnodejs) - Node.js version of ROS2.0 client.
+  - [riot-ros2](https://github.com/astralien3000/riot-ros2) - This project enables ROS2 to run on microcontrollers using the RIOT Operating System.
 - Client libraries
   - [rclcpp](https://github.com/ros2/rclcpp) - ROS Client Library for C++.
   - [rclpy](https://github.com/ros2/rclpy) - ROS Client Library for Python.
