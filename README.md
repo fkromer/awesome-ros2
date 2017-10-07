@@ -7,6 +7,7 @@
 ## Contents
 
 - [Packages](#packages)
+- [Documentation](#documentation)
 - [Books](#books)
 - [Courses](#courses)
 - [Presentations](#presentations)
@@ -45,6 +46,12 @@
 - build system (ROS2)
   - [ament_cmake_export_jars](https://github.com/esteve/ros2_java/tree/master/ament_cmake_export_jars) - The ability to export Java archives to downstream packages in the ament buildsystem in CMake.
   - [rmw_implementation_cmake](https://github.com/ros2/rmw/tree/master/rmw_implementation_cmake) - CMake functions which can discover and enumerate available implementations.
+
+## Documentation
+
+- [ROS 2 Design](http://design.ros2.org/) - Articles which inform and guide the ROS 2.0 design efforts.
+- [ROS 2 Docs (Overview)](http://docs.ros2.org/beta2/index.html#) - Details about ROS 2 internal design and organisation.
+- [ROS 2 Wiki](https://github.com/ros2/ros2/wiki) - Entry point to find all kind of information about ROS 2.
 
 ## Books
 
