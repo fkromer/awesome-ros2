@@ -9,6 +9,7 @@
 - [Packages](#packages)
 - [Books](#books)
 - [Courses](#courses)
+- [Presentations](#presentations)
 
 ## Packages (or libraries)
 
@@ -52,3 +53,11 @@
 ## Courses
 
 **No courses existing yet**
+
+## Presentations
+
+- ROSCon 2017
+  - The ROS 2 vision for advancing the future of robotics development [Slides](https://roscon.ros.org/2017/presentations/ROSCon%202017%20ROS2%20Vision.pdf) [Video](https://vimeo.com/236161417)
+  - ROS2 Fine Tuning [Slides](https://roscon.ros.org/2017/presentations/ROSCon%202017%20ROS2%20Fine%20Tuning.pdf) [Video](https://vimeo.com/236168591)
+  - SLAM on Turtlebot2 using ROS2 [Slides](https://roscon.ros.org/2017/presentations/ROSCon%202017%20ROS2%20SLAM.pdf) [Video](https://vimeo.com/236172294)
+  - Using ROS2 for Vision-Based Manipulation with Industrial Robots [Slides](https://roscon.ros.org/2017/presentations/ROSCon%202017%20ROS2%20Vision-Based%20Manipulation.pdf) [Video](https://vimeo.com/236182180)
