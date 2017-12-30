@@ -27,6 +27,7 @@
   - [rclcpp](https://github.com/ros2/rclcpp) - ROS Client Library for C++.
   - [rclpy](https://github.com/ros2/rclpy) - ROS Client Library for Python.
   - [rcljava](https://github.com/esteve/ros2_java/tree/master/rcljava) - ROS Client Library for Java.
+  - [rclnodejs](https://github.com/RobotWebTools/rclnodejs) - ROS Client Library for Node.js
   - [rclobjc](https://github.com/esteve/ros2_objc) - ROS Client Library for Objective C (for iOS).
   - [rclc](https://github.com/ros2/rclc) - ROS Client Library for C.
   - [rosserial](https://github.com/ros2/rosserial) - A ROS client library for small, embedded devices, such as Arduino.
