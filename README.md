@@ -27,6 +27,7 @@
   - [ros2cli](https://github.com/ros2/ros2cli) - ROS 2 command line tools
 - Application layer
   - [geometry2](https://github.com/ros2/geometry2) - A set of ROS packages for keeping track of coordinate transforms.
+  - [cartographer](https://github.com/ros2/cartographer) real-time simultaneous localization and mapping (SLAM) in 2D and 3D across multiple platforms and sensor configurations
 - "System" bindings
   - [rclandroid](https://github.com/esteve/ros2_android/tree/master/rclandroid) - Android API for ROS2.
   - [rclnodejs](https://github.com/RobotWebTools/rclnodejs) - Node.js version of ROS2.0 client.
