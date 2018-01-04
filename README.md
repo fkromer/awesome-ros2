@@ -49,6 +49,7 @@
   - [rosidl_generator_cpp](https://github.com/ros2/rosidl/tree/master/rosidl_generator_cpp) - Generate the ROS interfaces in C++.
   - [rosidl_generator_py](https://github.com/ros2/rosidl/tree/master/rosidl_generator_py) - Generate the ROS interfaces in Python.
   - [rosidl_generator_c](https://github.com/ros2/rosidl/tree/master/rosidl_generator_c) - Generate the ROS interfaces in C.
+  - [rosidl](https://github.com/ros2/rosidl) - Packages which provide the ROS IDL (.msg) definition and code generation.
 - RMW (ROS middleware)
   - [rmw](https://github.com/ros2/rmw/tree/master/rmw) - Contains the ROS middleware API.
   - [rmw_connext_cpp](https://github.com/ros2/rmw_connext/tree/master/rmw_connext_cpp) - Implement the ROS middleware interface using RTI Connext static code generation in C++.
