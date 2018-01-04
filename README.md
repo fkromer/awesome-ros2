@@ -19,6 +19,8 @@
   - [examples/rclpy](https://github.com/ros2/examples/tree/master/rclpy) - Python examples.
   - [rcljava_examples](https://github.com/esteve/ros2_java_examples/tree/master/rcljava_examples) - Package containing examples of how to use the rcljava API.
   - [ros2_talker_android, ros2_listener_android](https://github.com/esteve/ros2_android_examples) - Example Android apps for the ROS2 Java bindings.
+- Ecosystem
+  - [rviz](https://github.com/ros2/rviz) - 3D Robot Visualizer
 - "System" bindings
   - [rclandroid](https://github.com/esteve/ros2_android/tree/master/rclandroid) - Android API for ROS2.
   - [rclnodejs](https://github.com/RobotWebTools/rclnodejs) - Node.js version of ROS2.0 client.
