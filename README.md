@@ -21,6 +21,7 @@
   - [ros2_talker_android, ros2_listener_android](https://github.com/esteve/ros2_android_examples) - Example Android apps for the ROS2 Java bindings.
 - Ecosystem
   - [rviz](https://github.com/ros2/rviz) - 3D Robot Visualizer
+  - [urdfdom](https://github.com/ros2/urdfdom) - URDF (U-Robot Description Format) library which provides core data structures and a simple XML parser
 - "System" bindings
   - [rclandroid](https://github.com/esteve/ros2_android/tree/master/rclandroid) - Android API for ROS2.
   - [rclnodejs](https://github.com/RobotWebTools/rclnodejs) - Node.js version of ROS2.0 client.
