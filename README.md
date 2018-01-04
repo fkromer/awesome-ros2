@@ -39,6 +39,8 @@
   - [rclobjc](https://github.com/esteve/ros2_objc) - ROS Client Library for Objective C (for iOS).
   - [rclc](https://github.com/ros2/rclc) - ROS Client Library for C.
   - [rosserial](https://github.com/ros2/rosserial) - A ROS client library for small, embedded devices, such as Arduino.
+- Client libraries common
+  - [rcl](https://github.com/ros2/rcl) - Library to support implementation of language specific ROS Client Libraries.
 - IDL generators
   - [rosidl_generator_java](https://github.com/esteve/ros2_java/tree/master/rosidl_generator_java) - Generate the ROS interfaces in Java.
   - [rosidl_generator_objc](https://github.com/esteve/ros2_objc/tree/master/rosidl_generator_objc) - Generate the ROS interfaces in Objective C.
