@@ -15,6 +15,7 @@
 ## Packages (or libraries)
 
 - Examples
+  - [turtlebot2_demo](https://github.com/ros2/turtlebot2_demo) - TurtleBot 2 demos using ROS 2
   - [examples/rclcpp](https://github.com/ros2/examples/tree/master/rclcpp) - C++ examples.
   - [examples/rclpy](https://github.com/ros2/examples/tree/master/rclpy) - Python examples.
   - [rcljava_examples](https://github.com/esteve/ros2_java_examples/tree/master/rcljava_examples) - Package containing examples of how to use the rcljava API.
