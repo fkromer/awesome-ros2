@@ -25,6 +25,7 @@
   - [urdfdom](https://github.com/ros2/urdfdom) - URDF (U-Robot Description Format) library which provides core data structures and a simple XML parser
   - [urdfdom_headers](https://github.com/ros2/urdfdom_headers) - Headers for URDF parsers
   - [ros2cli](https://github.com/ros2/ros2cli) - ROS 2 command line tools
+  - [orocos_kinematics_dynamics](https://github.com/ros2/orocos_kinematics_dynamics) - Orocos Kinematics and Dynamics C++ library
 - Application layer
   - [geometry2](https://github.com/ros2/geometry2) - A set of ROS packages for keeping track of coordinate transforms.
   - [cartographer](https://github.com/ros2/cartographer) real-time simultaneous localization and mapping (SLAM) in 2D and 3D across multiple platforms and sensor configurations
