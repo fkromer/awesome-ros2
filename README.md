@@ -47,11 +47,12 @@
   - [rosidl_generator_cpp](https://github.com/ros2/rosidl/tree/master/rosidl_generator_cpp) - Generate the ROS interfaces in C++.
   - [rosidl_generator_py](https://github.com/ros2/rosidl/tree/master/rosidl_generator_py) - Generate the ROS interfaces in Python.
   - [rosidl_generator_c](https://github.com/ros2/rosidl/tree/master/rosidl_generator_c) - Generate the ROS interfaces in C.
-- RMW (ROS middleware interface)
+- RMW (ROS middleware)
   - [rmw](https://github.com/ros2/rmw/tree/master/rmw) - Contains the ROS middleware API.
   - [rmw_connext_cpp](https://github.com/ros2/rmw_connext/tree/master/rmw_connext_cpp) - Implement the ROS middleware interface using RTI Connext static code generation in C++.
   - [rmw_fastrtps_cpp](https://github.com/ros2/rmw_fastrtps/tree/master/rmw_fastrtps_cpp) - Implement the ROS middleware interface using eProsima FastRTPS static code generation in C++.
   - [rmw_opensplice_cpp](https://github.com/ros2/rmw_opensplice/tree/master/rmw_opensplice_cpp) - Implement the ROS middleware interface using PrismTech OpenSplice static code generation in C++.
+  - [rcutils](https://github.com/ros2/rcutils) - Common C functions and data structures used in ROS 2
 - build system (Linux)
   - [meta-ros2](https://github.com/erlerobot/meta-ros2) - ROS 2 Layer for OpenEmbedded Linux
 - build system (ROS2)
