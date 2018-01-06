@@ -60,6 +60,7 @@
   - [rcutils](https://github.com/ros2/rcutils) - Common C functions and data structures used in ROS 2
   - [freertps](https://github.com/ros2/freertps) - a free, portable, minimalist, work-in-progress RTPS implementation
 - DDS communication mechanism implementations
+  - [Connext DDS](https://www.rti.com/products/dds) - Connectivity Software for Developing and Integrating IIoT Systems
   - [Fast-RTPS](https://github.com/eProsima/Fast-RTPS) - Implementation of RTPS Standard (RTPS is the wire interoperability protocol for DDS)
   - [OpenSplice](https://github.com/ADLINK-IST/opensplice) - Implementation of the OMG DDS Standard
 - build system (Linux)
