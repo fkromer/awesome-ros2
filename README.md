@@ -59,6 +59,9 @@
   - [rmw_opensplice_cpp](https://github.com/ros2/rmw_opensplice/tree/master/rmw_opensplice_cpp) - Implement the ROS middleware interface using PrismTech OpenSplice static code generation in C++.
   - [rcutils](https://github.com/ros2/rcutils) - Common C functions and data structures used in ROS 2
   - [freertps](https://github.com/ros2/freertps) - a free, portable, minimalist, work-in-progress RTPS implementation
+- DDS communication mechanism implementations
+  - [Fast-RTPS](https://github.com/eProsima/Fast-RTPS) - Implementation of RTPS Standard (RTPS is the wire interoperability protocol for DDS)
+  - [OpenSplice](https://github.com/ADLINK-IST/opensplice) - Implementation of the OMG DDS Standard
 - build system (Linux)
   - [meta-ros2](https://github.com/erlerobot/meta-ros2) - ROS 2 Layer for OpenEmbedded Linux
 - build system (ROS2)
