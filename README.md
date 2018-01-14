@@ -31,10 +31,18 @@
 - Application layer
   - [geometry2](https://github.com/ros2/geometry2) - A set of ROS packages for keeping track of coordinate transforms.
   - [cartographer](https://github.com/ros2/cartographer) real-time simultaneous localization and mapping (SLAM) in 2D and 3D across multiple platforms and sensor configurations
+  - [vision_opencv](https://github.com/ros2/vision_opencv) - Packages for interfacing ROS2 with OpenCV
+  - [teleop_twist_keyboard](https://github.com/ros2/teleop_twist_keyboard) - Generic Keyboard Teleop for ROS2
+  - [teleop_twist_joy](https://github.com/ros2/teleop_twist_joy) - Simple joystick
+  teleop for twist robots
+  - [navigation](https://github.com/ros2/navigation) - ROS2 Navigation stack
 - "System" bindings
   - [rclandroid](https://github.com/esteve/ros2_android/tree/master/rclandroid) - Android API for ROS2.
   - [rclnodejs](https://github.com/RobotWebTools/rclnodejs) - Node.js version of ROS2.0 client.
   - [riot-ros2](https://github.com/astralien3000/riot-ros2) - This project enables ROS2 to run on microcontrollers using the RIOT Operating System.
+- Driver layer
+  - [joystick_drivers](https://github.com/ros2/joystick_drivers) - ROS2 drivers for joysticks
+  - [ros_astra_camera](https://github.com/ros2/ros_astra_camera) - ROS2 wrapper for Astra camera
 - Client libraries
   - [rclcpp](https://github.com/ros2/rclcpp) - ROS Client Library for C++.
   - [rclpy](https://github.com/ros2/rclpy) - ROS Client Library for Python.
