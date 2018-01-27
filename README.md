@@ -10,6 +10,7 @@
 
 - [Packages](#packages)
 - [Documentation](#documentation)
+- [Community](#community)
 - [Books](#books)
 - [Courses](#courses)
 - [Presentations](#presentations)
@@ -125,6 +126,12 @@
 - [ROS 2 Wiki](https://github.com/ros2/ros2/wiki) - Entry point to find all kind of information about ROS 2.
 - [ROS 2 Distribution (rosdistro)](https://github.com/ros2/rosdistro) - Info about distributions and the included packages.
 - [ROS2 package status (ardent)](http://repo.ros2.org/status_page/ros_ardent_default.html) - Status of ROS2 ardent packages.
+
+## Community
+
+- [ROS Discourse](https://discourse.ros.org/c/ng-ros)
+- [ROS Answers](https://answers.ros.org/questions/scope:all/sort:activity-desc/tags:ROS2/)
+- [Stack Overflow](https://stackoverflow.com/questions/tagged/ros2)
 
 ## Books
 
