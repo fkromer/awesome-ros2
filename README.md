@@ -131,6 +131,8 @@
 
 - [ROS Discourse](https://discourse.ros.org/c/ng-ros)
 - [ROS Answers](https://answers.ros.org/questions/scope:all/sort:activity-desc/tags:ROS2/)
+- [ROS News](http://www.ros.org/news/)
+- [ROS Planet](http://planet.ros.org/)
 - [Stack Overflow](https://stackoverflow.com/questions/tagged/ros2)
 
 ## Books
