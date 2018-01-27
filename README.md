@@ -16,24 +16,33 @@
 
 ## Packages
 
-- Examples
+### Examples
+
   - [turtlebot2_demo](https://github.com/ros2/turtlebot2_demo) - TurtleBot 2 demos using ROS 2
   - [examples/rclcpp](https://github.com/ros2/examples/tree/master/rclcpp) - C++ examples.
   - [examples/rclpy](https://github.com/ros2/examples/tree/master/rclpy) - Python examples.
   - [rcljava_examples](https://github.com/esteve/ros2_java_examples/tree/master/rcljava_examples) - Package containing examples of how to use the rcljava API.
   - [ros2_talker_android, ros2_listener_android](https://github.com/esteve/ros2_android_examples) - Example Android apps for the ROS2 Java bindings.
-- Benchmarking
+
+### Benchmarking
+
   - [ros2_benchmarking](https://github.com/piappl/ros2_benchmarking) - Framework for ROS2 benchmarking. ROS2 communication characteristics can be evaluated on several axes, quickly and in an automated way.
-- Containerization
+
+### Containerization
+
   - [docker-ros2-ospl-ce](https://github.com/Adlink-ROS/docker-ros2-ospl-ce) - A dockerfile to build a ROS2 + OpenSplice CE container.
   - [ros2_java_docker](https://github.com/esteve/ros2_java_docker) - Dockerfiles for building ros2_java with OpenJDK and Android
-- Ecosystem
+
+### Ecosystem
+
   - [rviz](https://github.com/ros2/rviz) - 3D Robot Visualizer
   - [urdfdom](https://github.com/ros2/urdfdom) - URDF (U-Robot Description Format) library which provides core data structures and a simple XML parser
   - [urdfdom_headers](https://github.com/ros2/urdfdom_headers) - Headers for URDF parsers
   - [ros2cli](https://github.com/ros2/ros2cli) - ROS 2 command line tools
   - [orocos_kinematics_dynamics](https://github.com/ros2/orocos_kinematics_dynamics) - Orocos Kinematics and Dynamics C++ library
-- Application layer
+
+### Application layer
+
   - [geometry2](https://github.com/ros2/geometry2) - A set of ROS packages for keeping track of coordinate transforms.
   - [cartographer](https://github.com/ros2/cartographer) real-time simultaneous localization and mapping (SLAM) in 2D and 3D across multiple platforms and sensor configurations
   - [vision_opencv](https://github.com/ros2/vision_opencv) - Packages for interfacing ROS2 with OpenCV
@@ -43,15 +52,21 @@
   - [navigation](https://github.com/ros2/navigation) - ROS2 Navigation stack
   - [diagnostics](https://github.com/bponsler/diagnostics/tree/ros2-devel) - Forked version of the original ROS1 Diagnostics for ROS 2 (currently diagnostics_updater only).
   - [robot_state_publisher](https://github.com/bponsler/robot_state_publisher/tree/publish-robot-model) - Forked version of the original ROS Robot State Publisher with all modifications to compile within a ROS2 Ecosystem.
-- "System" bindings
+
+### "System" bindings
+
   - [rclandroid](https://github.com/esteve/ros2_android/tree/master/rclandroid) - Android API for ROS2.
   - [rclnodejs](https://github.com/RobotWebTools/rclnodejs) - Node.js version of ROS2.0 client.
   - [riot-ros2](https://github.com/astralien3000/riot-ros2) - This project enables ROS2 to run on microcontrollers using the RIOT Operating System.
-- Driver layer
+
+### Driver layer
+
   - [joystick_drivers](https://github.com/ros2/joystick_drivers) - ROS2 drivers for joysticks
   - [ros_astra_camera](https://github.com/ros2/ros_astra_camera) - ROS2 wrapper for Astra camera
   - [ros2_android_drivers](https://github.com/esteve/ros2_android_drivers) - Collection of ROS2 drivers for several Android sensors.
-- Client libraries
+
+### Client libraries
+
   - [rclcpp](https://github.com/ros2/rclcpp) - ROS Client Library for C++.
   - [rclpy](https://github.com/ros2/rclpy) - ROS Client Library for Python.
   - [rcljava](https://github.com/esteve/ros2_java/tree/master/rcljava) - ROS Client Library for Java.
@@ -59,11 +74,15 @@
   - [rclobjc](https://github.com/esteve/ros2_objc) - ROS Client Library for Objective C (for iOS).
   - [rclc](https://github.com/ros2/rclc) - ROS Client Library for C.
   - [rosserial](https://github.com/ros2/rosserial) - A ROS client library for small, embedded devices, such as Arduino.
-- Client libraries common
+
+### Client libraries common
+
   - [rcl](https://github.com/ros2/rcl) - Library to support implementation of language specific ROS Client Libraries.
   - [system_tests](https://github.com/ros2/system_tests) - Tests for rclcpp and rclpy.
   - [rcl_interfaces](https://github.com/ros2/rcl_interfaces) - A repository for messages and services used by the ROS client libraries.
-- IDL generators
+
+### IDL generators
+
   - [rosidl_generator_java](https://github.com/esteve/ros2_java/tree/master/rosidl_generator_java) - Generate the ROS interfaces in Java.
   - [rosidl_generator_objc](https://github.com/esteve/ros2_objc/tree/master/rosidl_generator_objc) - Generate the ROS interfaces in Objective C.
   - [rosidl_generator_cpp](https://github.com/ros2/rosidl/tree/master/rosidl_generator_cpp) - Generate the ROS interfaces in C++.
@@ -71,20 +90,28 @@
   - [rosidl_generator_c](https://github.com/ros2/rosidl/tree/master/rosidl_generator_c) - Generate the ROS interfaces in C.
   - [rosidl](https://github.com/ros2/rosidl) - Packages which provide the ROS IDL (.msg) definition and code generation.
   - [rosidl_dds](https://github.com/ros2/rosidl_dds) - Generate the DDS interfaces for ROS interfaces.
-- RMW (ROS middleware)
+
+### RMW (ROS middleware)
+
   - [rmw](https://github.com/ros2/rmw/tree/master/rmw) - Contains the ROS middleware API.
   - [rmw_connext_cpp](https://github.com/ros2/rmw_connext/tree/master/rmw_connext_cpp) - Implement the ROS middleware interface using RTI Connext static code generation in C++.
   - [rmw_fastrtps_cpp](https://github.com/ros2/rmw_fastrtps/tree/master/rmw_fastrtps_cpp) - Implement the ROS middleware interface using eProsima FastRTPS static code generation in C++.
   - [rmw_opensplice_cpp](https://github.com/ros2/rmw_opensplice/tree/master/rmw_opensplice_cpp) - Implement the ROS middleware interface using PrismTech OpenSplice static code generation in C++.
   - [rcutils](https://github.com/ros2/rcutils) - Common C functions and data structures used in ROS 2
   - [freertps](https://github.com/ros2/freertps) - a free, portable, minimalist, work-in-progress RTPS implementation
-- DDS communication mechanism implementations
+
+### DDS communication mechanism implementations
+
   - [Connext DDS](https://www.rti.com/products/dds) - Connectivity Software for Developing and Integrating IIoT Systems
   - [Fast-RTPS](https://github.com/eProsima/Fast-RTPS) - Implementation of RTPS Standard (RTPS is the wire interoperability protocol for DDS)
   - [OpenSplice](https://github.com/ADLINK-IST/opensplice) - Implementation of the OMG DDS Standard
-- Build system (Linux)
+
+### Build system (Linux)
+
   - [meta-ros2](https://github.com/erlerobot/meta-ros2) - ROS 2 Layer for OpenEmbedded Linux
-- Build system (ROS2)
+
+### Build system (ROS2)
+
   - [ci](https://github.com/ros2/ci) - ROS 2 CI Infrastructure
   - [ament_cmake_export_jars](https://github.com/esteve/ros2_java/tree/master/ament_cmake_export_jars) - The ability to export Java archives to downstream packages in the ament buildsystem in CMake.
   - [rmw_implementation_cmake](https://github.com/ros2/rmw/tree/master/rmw_implementation_cmake) - CMake functions which can discover and enumerate available implementations.
