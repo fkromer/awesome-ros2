@@ -4,7 +4,7 @@
 
 [<img src="https://rawgit.com/fkromer/awesome-ros2/master/ros2_logo.png" align="right" width="86">](https://github.com/ros2/ros2/wiki)
 
-> A curated list of awesome Robot Operating System Version 2.0 (ROS 2) resources and libraries
+> A curated list of awesome Robot Operating System Version 2.0 (ROS 2) resources and libraries.
 
 ## Contents
 
