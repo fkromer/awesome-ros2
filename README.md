@@ -14,7 +14,7 @@
 - [Courses](#courses)
 - [Presentations](#presentations)
 
-## Packages (or libraries)
+## Packages
 
 - Examples
   - [turtlebot2_demo](https://github.com/ros2/turtlebot2_demo) - TurtleBot 2 demos using ROS 2
