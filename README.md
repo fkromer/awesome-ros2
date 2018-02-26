@@ -99,6 +99,7 @@
   - [rmw_connext_cpp](https://github.com/ros2/rmw_connext/tree/master/rmw_connext_cpp) - Implement the ROS middleware interface using RTI Connext static code generation in C++.
   - [rmw_fastrtps_cpp](https://github.com/ros2/rmw_fastrtps/tree/master/rmw_fastrtps_cpp) - Implement the ROS middleware interface using eProsima FastRTPS static code generation in C++.
   - [rmw_opensplice_cpp](https://github.com/ros2/rmw_opensplice/tree/master/rmw_opensplice_cpp) - Implement the ROS middleware interface using PrismTech OpenSplice static code generation in C++.
+  - [rmw_coredx](https://github.com/tocinc/rmw_coredx) - CoreDX DDS integration layer for ROS2
   - [rcutils](https://github.com/ros2/rcutils) - Common C functions and data structures used in ROS 2
   - [freertps](https://github.com/ros2/freertps) - a free, portable, minimalist, work-in-progress RTPS implementation
 
