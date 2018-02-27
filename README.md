@@ -1,8 +1,8 @@
 # Awesome Robot Operating System 2 (ROS 2) [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
- [![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg)](http://creativecommons.org/licenses/by-nc-sa/4.0/)
+ [![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 
-[<img src="https://rawgit.com/fkromer/awesome-ros2/master/ros2_logo.png" align="right" width="86">](https://github.com/ros2/ros2/wiki)
+[<img src="https://raw.githubusercontent.com/fkromer/awesome-ros2/master/ros2_logo.png" align="right" width="86">](https://github.com/ros2/ros2/wiki)
 
 > A curated list of awesome Robot Operating System Version 2.0 (ROS 2) resources and libraries.
 
