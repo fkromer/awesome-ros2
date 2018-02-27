@@ -68,14 +68,14 @@
 
 ### Client libraries
 
-  - [rclcpp](https://github.com/ros2/rclcpp) - ROS Client Library for C++.
-  - [rclpy](https://github.com/ros2/rclpy) - ROS Client Library for Python.
-  - [rcljava](https://github.com/esteve/ros2_java/tree/master/rcljava) - ROS Client Library for Java.
-  - [rclnodejs](https://github.com/RobotWebTools/rclnodejs) - ROS Client Library for Node.js
-  - [rclobjc](https://github.com/esteve/ros2_objc) - ROS Client Library for Objective C (for iOS).
-  - [rclc](https://github.com/ros2/rclc) - ROS Client Library for C.
-  - [rosserial](https://github.com/ros2/rosserial) - A ROS client library for small, embedded devices, such as Arduino.
-  - [ros2_rust](https://github.com/esteve/ros2_rust) - Rust bindings for ROS2
+  - [rclcpp](https://github.com/ros2/rclcpp) - ROS Client Library for C++. ![rclcpp](https://img.shields.io/github/stars/ros2/rclcpp.svg)
+  - [rclpy](https://github.com/ros2/rclpy) - ROS Client Library for Python. ![rclpy](https://img.shields.io/github/stars/ros2/rclpy.svg)
+  - [rcljava](https://github.com/esteve/ros2_java/tree/master/rcljava) - ROS Client Library for Java. ![rcljava](https://img.shields.io/github/stars/esteve/ros2_java.svg)
+  - [rclnodejs](https://github.com/RobotWebTools/rclnodejs) - ROS Client Library for Node.js ![rclnodejs](https://img.shields.io/github/stars/RobotWebTools/rclnodejs.svg)
+  - [rclobjc](https://github.com/esteve/ros2_objc) - ROS Client Library for Objective C (for iOS). ![rclobjc](https://img.shields.io/github/stars/esteve/ros2_objc.svg)
+  - [rclc](https://github.com/ros2/rclc) - ROS Client Library for C. ![rclc](https://img.shields.io/github/stars/ros2/rclc.svg)
+  - [rosserial](https://github.com/ros2/rosserial) - A ROS client library for small, embedded devices, such as Arduino. ![rosserial](https://img.shields.io/github/stars/ros2/rosserial.svg)
+  - [ros2_rust](https://github.com/esteve/ros2_rust) - Rust bindings for ROS2 ![ros2_rust](https://img.shields.io/github/stars/esteve/ros2_rust.svg)
 
 ### Client libraries common
 
