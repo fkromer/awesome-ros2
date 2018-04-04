@@ -159,7 +159,7 @@
 
 ### Embedded World Conference 2018 
 
-- ADLink Neuron: An industrial oriented ROS2-based platform [Slides](https://github.com/Adlink-ROS/adlink_neuronbot/raw/master/document/ADLINK_NeuronBot_20180313.pdf) [Video](https://youtu.be/RC6XvTvTs9Y) [Video](https://youtu.be/qA4_Hmnd_tM)
+- ADLink Neuron: An industrial oriented ROS2-based platform [Slides](https://raw.githubusercontent.com/Adlink-ROS/adlink_neuronbot/master/document/ADLINK_NeuronBot_20180313.pdf) [Video](https://youtu.be/RC6XvTvTs9Y) [Video](https://youtu.be/qA4_Hmnd_tM)
 
 ### ROS Industrial Conference 2017
 
