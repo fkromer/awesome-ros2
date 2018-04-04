@@ -81,7 +81,6 @@
   - [rclnodejs](https://github.com/RobotWebTools/rclnodejs) - ROS Client Library for Node.js ![rclnodejs](https://img.shields.io/github/stars/RobotWebTools/rclnodejs.svg)
   - [rclobjc](https://github.com/esteve/ros2_objc) - ROS Client Library for Objective C (for iOS). ![rclobjc](https://img.shields.io/github/stars/esteve/ros2_objc.svg)
   - [rclc](https://github.com/ros2/rclc) - ROS Client Library for C. ![rclc](https://img.shields.io/github/stars/ros2/rclc.svg)
-  - [rosserial](https://github.com/ros2/rosserial) - A ROS client library for small, embedded devices, such as Arduino. ![rosserial](https://img.shields.io/github/stars/ros2/rosserial.svg)
   - [ros2_rust](https://github.com/esteve/ros2_rust) - Rust bindings for ROS2 ![ros2_rust](https://img.shields.io/github/stars/esteve/ros2_rust.svg)
 
 ### Client libraries common
