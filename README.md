@@ -16,6 +16,7 @@
 - [Courses](#courses)
 - [Presentations](#presentations)
 - [Papers](#papers)
+- [Podcasts](#podcasts)
 
 ## Packages
 
@@ -187,3 +188,7 @@
 ## Papers
 
 - [Maruyama, Yuya et al. “Exploring the performance of ROS2.” 2016 International Conference on Embedded Software (EMSOFT) (2016): 1-10.](https://www.semanticscholar.org/paper/Exploring-the-performance-of-ROS2-Maruyama-Kato/07b895f3b584dea4f64e91844f243de382026b20)
+
+## Podcasts
+
+- [Everything about ROS 2 with Dirk Thomas (from 16th minute onwards)](http://www.theconstructsim.com/rdp-012-all-about-ros2-with-dirk-thomas/)
