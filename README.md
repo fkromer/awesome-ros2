@@ -92,6 +92,7 @@
   - [rclobjc](https://github.com/esteve/ros2_objc) - ROS Client Library for Objective C (for iOS). ![rclobjc](https://img.shields.io/github/stars/esteve/ros2_objc.svg)
   - [rclc](https://github.com/ros2/rclc) - ROS Client Library for C. ![rclc](https://img.shields.io/github/stars/ros2/rclc.svg)
   - [ros2_rust](https://github.com/esteve/ros2_rust) - Rust bindings for ROS2 ![ros2_rust](https://img.shields.io/github/stars/esteve/ros2_rust.svg)
+  - [ros2_dotnet](https://github.com/esteve/ros2_dotnet) - .NET bindings for ROS2 ![ros2_dotnet](https://img.shields.io/github/stars/esteve/ros2_dotnet.svg)
 
 ### Client libraries common
 
