@@ -3,7 +3,7 @@
 [![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 [![Build Status](https://api.travis-ci.org/fkromer/awesome-ros2.svg)](https://travis-ci.org/fkromer/awesome-ros2)
 
-[<img src="https://raw.githubusercontent.com/fkromer/awesome-ros2/master/ros2_logo.png" align="right" width="86">](https://github.com/ros2/ros2/wiki)
+[<img src="https://raw.githubusercontent.com/fkromer/awesome-ros2/master/ros_logo.svg" align="right" width="86">](https://github.com/ros2/ros2/wiki)
 
 > A curated list of awesome Robot Operating System Version 2.0 (ROS 2) resources and libraries.
 
