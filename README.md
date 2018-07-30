@@ -170,6 +170,26 @@
 
 ## Presentations
 
+### ROSCon 2018
+
+[program announcement](https://roscon.ros.org/2018/#program)
+
+- Hands-on ROS 2: A Walkthrough
+- ROS 2 on Autonomous Driving Vehicles
+- RViz – The tale of a migration to ROS 2.0
+- Launch for ROS 2
+- Getting involved in ROS 2 development
+- Planning to Plan: Plugins All The Way Down
+- Leveraging DDS Security in ROS2
+- Arm DDS Security library: Adding secure security to ROS2
+- ROS2: Supercharging the Jaguar4x4
+- Performance Test - A Tool for Communication Middleware Performance Measuring
+- ROS2 for Android, iOS and Universal Windows Platform: a demonstration of ROS2’s portability, and cross-platform and cross-language capabilities
+- Integrating ROS and ROS2 on mixed-critical robotic systems based on embedded heterogeneous platforms
+- Towards ROS 2 microcontroller meta cross-compilation
+- Node.js Client & Web Bridge Ready for ROS 2.0
+- RCLAda: the Ada client library for ROS2
+
 ### Embedded World Conference 2018 
 
 - ADLink Neuron: An industrial oriented ROS2-based platform [Slides](https://raw.githubusercontent.com/Adlink-ROS/adlink_neuronbot/master/document/ADLINK_NeuronBot_20180313.pdf) [Video](https://www.youtube.com/watch?v=RC6XvTvTs9Y&feature=youtu.be) [Video](https://www.youtube.com/watch?v=qA4_Hmnd_tM&feature=youtu.be)
