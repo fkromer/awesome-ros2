@@ -166,7 +166,7 @@
 
 ## Courses
 
-**No courses existing yet**
+- [ROS2 How To: Discover Next Generation ROS (Udemy)](https://www.udemy.com/ros2-how-to/)
 
 ## Presentations
 
