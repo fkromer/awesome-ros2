@@ -1,1 +1,6 @@
-theme: jekyll-theme-cayman
+title: Awesome ROS2
+logo: /ros_logo.svg
+description: The Robot Operating System Version 2.0 is awesome!
+show_downloads: false
+google_analytics:
+theme: jekyll-theme-minimal
