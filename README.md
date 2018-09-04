@@ -236,6 +236,8 @@
 
 ## Papers
 
+- [INTRODUCING THE Robot Security Framework (RSF), A STANDARDIZED METHODOLOGY TO PERFORM SECURITY ASSESSMENTS IN ROBOTICS](https://arxiv.org/pdf/1806.04042.pdf)
+- [TOWARDS AN OPEN STANDARD FOR ASSESSING THE SEVERITY OF ROBOT SECURITY VULNERABILITIES, THE ROBOT VULNERABILITY SCORING SYSTEM (RVSS)](https://arxiv.org/pdf/1807.10357.pdf)
 - [Robot Operating System 2 - The need for a holistic security approach to robotic architectures](http://journals.sagepub.com/doi/pdf/10.1177/1729881418770011) - Ubuntu 16.04, ROS 2 Beta 2/3, and RTI 5.3 DDS with
 DDS Security.
 - [Maruyama, Yuya et al. “Exploring the performance of ROS2.” 2016 International Conference on Embedded Software (EMSOFT) (2016): 1-10.](https://www.semanticscholar.org/paper/Exploring-the-performance-of-ROS2-Maruyama-Kato/07b895f3b584dea4f64e91844f243de382026b20)
