@@ -1,7 +1,5 @@
 # Awesome Robot Operating System 2 (ROS 2) [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-[![Build Status](https://api.travis-ci.org/fkromer/awesome-ros2.svg)](https://travis-ci.org/fkromer/awesome-ros2)
-
 [<img src="https://raw.githubusercontent.com/fkromer/awesome-ros2/master/ros_logo.svg?sanitize=true" align="right" width="86">](https://github.com/ros2/ros2/wiki)
 
 > A curated list of awesome Robot Operating System Version 2.0 (ROS 2) resources and libraries.
