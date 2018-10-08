@@ -153,6 +153,7 @@
 
  - [NuttX](https://github.com/microROS/NuttX) - NuttX fork of the official one for use with micro-ROS.
  - [RIOT](https://github.com/RIOT-OS/RIOT) - RIOT is a real-time multi-threading operating system (...,) real-time capabilities, small memory footprint, (...) API offers partial POSIX compliance.
+ - [eMCOS](https://www.esol.com/embedded/emcos.html) - POSIX-compliant real-time OS for many-core processors expected to suppport AUTOSAR in the future.
 
 ## Documentation
 
