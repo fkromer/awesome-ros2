@@ -21,7 +21,7 @@
 ### Demostrations
 
 - [adlink_ddsbot](https://github.com/Adlink-ROS/adlink_ddsbot) - The ROS 2.0/1.0 based robots swarm architecture (opensplice DDS) ![adlink_ddsbot](https://img.shields.io/github/stars/Adlink-ROS/adlink_ddsbot.svg).
-- [adlink_neuronbot](https://github.com/Adlink-ROS/adlink_neuronbot) ROS2/DDS robot pkg for human following and swarm ![adlink_neuronbot](https://img.shields.io/github/stars/Adlink-ROS/adlink_neuronbot.svg).
+- [adlink_neuronbot](https://github.com/Adlink-ROS/adlink_neuronbot) - ROS2/DDS robot pkg for human following and swarm ![adlink_neuronbot](https://img.shields.io/github/stars/Adlink-ROS/adlink_neuronbot.svg).
 - [turtlebot3](https://github.com/ROBOTIS-GIT/turtlebot3/tree/ros2) - ROS2 based TurtleBot3 demo including Bringup, Teleop and Cartographer ![turtlebot3](https://img.shields.io/github/stars/ROBOTIS-GIT/turtlebot3.svg).
 
 ### Examples
@@ -57,7 +57,7 @@
 - [ros2_control](https://github.com/ros-controls/ros2_control) - `ros2_control` is a proof of concept on how new features within ROS 2 can be elaborated and used in the context of robot control (`ros2_controllers`) ![ros2_control](https://img.shields.io/github/stars/ros-controls/ros2_control.svg).
 - [ros2_controllers](https://github.com/ros-controls/ros2_controllers) - Description of ros_controllers ![ros2_controllers](https://img.shields.io/github/stars/ros-controls/ros2_controllers.svg).
 - [geometry2](https://github.com/ros2/geometry2) - A set of ROS packages for keeping track of coordinate transforms ![geometry2](https://img.shields.io/github/stars/ros2/geometry2.svg).
-- [cartographer](https://github.com/ros2/cartographer) real-time simultaneous localization and mapping (SLAM) in 2D and 3D across multiple platforms and sensor configurations ![cartographer](https://img.shields.io/github/stars/ros2/cartographer.svg).
+- [cartographer](https://github.com/ros2/cartographer) - Real-time simultaneous localization and mapping (SLAM) in 2D and 3D across multiple platforms and sensor configurations ![cartographer](https://img.shields.io/github/stars/ros2/cartographer.svg).
 - [vision_opencv](https://github.com/ros2/vision_opencv) - Packages for interfacing ROS2 with OpenCV ![vision_opencv](https://img.shields.io/github/stars/ros2/vision_opencv.svg).
 - [teleop_twist_keyboard](https://github.com/ros2/teleop_twist_keyboard) - Generic Keyboard Teleop for ROS2 ![teleop_twist_keyboard](https://img.shields.io/github/stars/ros2/teleop_twist_keyboard.svg).
 - [teleop_twist_joy](https://github.com/ros2/teleop_twist_joy) - Simple joystick
