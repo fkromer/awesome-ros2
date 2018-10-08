@@ -110,7 +110,6 @@
 - [rosidl_generator_java](https://github.com/esteve/ros2_java/tree/master/rosidl_generator_java) - Generate the ROS interfaces in Java ![ros2_java](https://img.shields.io/github/stars/esteve/ros2_java.svg).
 - [rosidl_generator_objc](https://github.com/esteve/ros2_objc/tree/master/rosidl_generator_objc) - Generate the ROS interfaces in Objective C ![ros2_objc](https://img.shields.io/github/stars/esteve/ros2_objc.svg).
 - [rosidl_generator_cpp](https://github.com/ros2/rosidl/tree/master/rosidl_generator_cpp) - Generate the ROS interfaces in C++ ![rosidl](https://img.shields.io/github/stars/ros2/rosidl.svg).
-- [rosidl_generator_py](https://github.com/ros2/rosidl/tree/master/rosidl_generator_py) - Generate the ROS interfaces in Python ![rosidl](https://img.shields.io/github/stars/ros2/rosidl.svg).
 - [rosidl_generator_c](https://github.com/ros2/rosidl/tree/master/rosidl_generator_c) - Generate the ROS interfaces in C ![rosidl](https://img.shields.io/github/stars/ros2/rosidl.svg).
 - [rosidl](https://github.com/ros2/rosidl) - Packages which provide the ROS IDL (.msg) definition and code generation ![rosidl](https://img.shields.io/github/stars/ros2/rosidl.svg).
 - [rosidl_dds](https://github.com/ros2/rosidl_dds) - Generate the DDS interfaces for ROS interfaces ![rosidl_dds](https://img.shields.io/github/stars/ros2/rosidl_dds.svg).
