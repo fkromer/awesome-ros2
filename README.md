@@ -1,4 +1,4 @@
-# Awesome Robot Operating System 2 (ROS 2) [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+# Awesome Robot Operating System 2 (ROS 2) [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 [![Build Status](https://api.travis-ci.org/fkromer/awesome-ros2.svg)](https://travis-ci.org/fkromer/awesome-ros2)
 
