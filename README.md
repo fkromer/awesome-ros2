@@ -15,7 +15,6 @@
 - [Presentations](#presentations)
 - [Papers](#papers)
 - [Podcasts](#podcasts)
-- [License](#license)
 
 ## Packages
 
