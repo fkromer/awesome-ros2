@@ -76,6 +76,7 @@
 - [ros2-web-bridge](https://github.com/RobotWebTools/ros2-web-bridge) - Bridging your browser to the ROS 2.0 ![ros2-web-bridge](https://img.shields.io/github/stars/RobotWebTools/ros2-web-bridge.svg).
 - [ros2_message_filters](https://github.com/intel/ros2_message_filters) - ros2_message_filters blends various messages based on the conditions that filter needs to met and derives from ROS2 porting of ROS message_filters ![ros2_message_filters](https://img.shields.io/github/stars/intel/ros2_message_filters.svg).
 - [ros2-tensorflow](https://github.com/alsora/ros2-tensorflow) - ROS2 nodes for computer vision tasks in Tensorflow ![ros2-tensorflow](https://img.shields.io/github/stars/alsora/ros2-tensorflow.svg).
+- [pid](https://github.com/UTNuclearRoboticsPublic/pid) - A PID controller for ROS2 ![pid](https://img.shields.io/github/stars/UTNuclearRoboticsPublic/pid.svg).
 
 ### "System" bindings
 
