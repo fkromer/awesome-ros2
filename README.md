@@ -82,6 +82,7 @@
 
 ### Driver layer
 
+- [ros2_xmlrpc](https://github.com/aarushsesto/ros2_xmlrpc) - ros2 interface package with xmlrpc, to communicate with a Sesto server using Sesto API ![ros2_xmlrpc](https://img.shields.io/github/stars/aarushsesto/ros2_xmlrpc.svg).
 - [cozmo_driver_ros2](https://github.com/FurqanHabibi/cozmo_driver_ros2) - Unofficial Anki Cozmo node for ROS2 ![cozmo_driver_ros2](https://img.shields.io/github/stars/FurqanHabibi/cozmo_driver_ros2.svg).
 - [sphero_ros2](https://github.com/athackst/sphero_ros2) - ROS2 sphero driver ![sphero_ros2](https://img.shields.io/github/stars/athackst/sphero_ros2.svg).
 - [flock2](https://github.com/clydemcqueen/flock2) - ROS2 driver for DJI Tello drones ![flock2](https://img.shields.io/github/stars/clydemcqueen/flock2.svg).
