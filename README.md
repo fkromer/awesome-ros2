@@ -143,6 +143,7 @@
 - [rmw_freertps](https://github.com/ros2/rmw_freertps) - RMW implementation using freertps ![tocinc/rmw_coredx](https://img.shields.io/github/stars/ros2/rmw_freertps.svg).
 - [rcutils](https://github.com/ros2/rcutils) - Common C functions and data structures used in ROS 2 ![rmw](https://img.shields.io/github/stars/ros2/rcutils.svg).
 - [freertps](https://github.com/ros2/freertps) - a free, portable, minimalist, work-in-progress RTPS implementation ![rmw](https://img.shields.io/github/stars/ros2/freertps.svg).
+- [rmw_zhe](https://github.com/atolab/rmw_zhe) - An ROS2 RMW implementation on top of Zhe ![rmw_zhe](https://img.shields.io/github/stars/atolab/rmw_zhe.svg).
 
 ### DDS communication mechanism implementations
 
