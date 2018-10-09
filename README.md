@@ -51,6 +51,7 @@
 - [urdfdom_headers](https://github.com/ros2/urdfdom_headers) - Headers for URDF parsers ![urdfdom_headers](https://img.shields.io/github/stars/ros2/urdfdom_headers.svg).
 - [ros2cli](https://github.com/ros2/ros2cli) - ROS 2 command line tools ![ros2cli](https://img.shields.io/github/stars/ros2/ros2cli.svg).
 - [orocos_kinematics_dynamics](https://github.com/ros2/orocos_kinematics_dynamics) - Orocos Kinematics and Dynamics C++ library ![orocos_kinematics_dynamics](https://img.shields.io/github/stars/ros2/orocos_kinematics_dynamics.svg).
+- [pydds](https://github.com/atolab/pydds) - Simple DDS Python API for Vortex Lite and for OpenSplice ![pydds](https://img.shields.io/github/stars/atolab/pydds.svg).
 
 ### Application layer
 
