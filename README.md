@@ -88,7 +88,7 @@
 - [joystick_drivers](https://github.com/ros2/joystick_drivers) - ROS2 drivers for joysticks ![joystick_drivers](https://img.shields.io/github/stars/ros2/joystick_drivers.svg).
 - [joystick_drivers_from_scratch](https://github.com/ros2/joystick_drivers_from_scratch) - Joystick driver packages for ROS 2 ![joystick_drivers_from_scratch](https://img.shields.io/github/stars/ros2/joystick_drivers_from_scratch.svg).
 - [joystick_ros2](https://github.com/FurqanHabibi/joystick_ros2) - Joystick driver for ROS2, support all platforms: Linux, OS X, Windows ![joystick_ros2](https://img.shields.io/github/stars/FurqanHabibi/joystick_ros2.svg).
-- [ros2_teleop_keyboard](https://github.com/rohbotics/ros2_teleop_keyboard) - Teleop Twist Keyboard for ROS2 ![joystick_drivers](https://img.shields.io/github/stars/rohbotics/ros2_teleop_keyboard.svg).
+- [ros2_teleop_keyboard](https://github.com/rohbotics/ros2_teleop_keyboard) - Teleop Twist Keyboard for ROS2 ![ros2_teleop_keyboard](https://img.shields.io/github/stars/rohbotics/ros2_teleop_keyboard.svg).
 - [ros_astra_camera](https://github.com/ros2/ros_astra_camera) - ROS2 wrapper for Astra camera ![ros_astra_camera](https://img.shields.io/github/stars/ros2/ros_astra_camera.svg).
 - [ros2_android_drivers](https://github.com/esteve/ros2_android_drivers) - Collection of ROS2 drivers for several Android sensors ![ros2_android_drivers](https://img.shields.io/github/stars/esteve/ros2_android_drivers.svg).
 - [ros2_intel_realsense](https://github.com/intel/ros2_intel_realsense) - ROS2 Wrapper for Intel® RealSense™ Devices ![ros2_intel_realsense](https://img.shields.io/github/stars/intel/ros2_intel_realsense.svg).
