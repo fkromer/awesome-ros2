@@ -81,6 +81,7 @@
 
 ### Driver layer
 
+- [sphero_ros2](https://github.com/athackst/sphero_ros2) - ROS2 sphero driver ![sphero_ros2](https://img.shields.io/github/stars/athackst/sphero_ros2.svg).
 - [flock2](https://github.com/clydemcqueen/flock2) - ROS2 driver for DJI Tello drones ![flock2](https://img.shields.io/github/stars/clydemcqueen/flock2.svg).
 - [ros2_raspicam_node](https://github.com/Misterblue/ros2_raspicam_node) - ROS2 node for Raspberry Pi camera ![ros2_raspicam_node](https://img.shields.io/github/stars/Misterblue/ros2_raspicam_node.svg).
 - [joystick_drivers](https://github.com/ros2/joystick_drivers) - ROS2 drivers for joysticks ![joystick_drivers](https://img.shields.io/github/stars/ros2/joystick_drivers.svg).
