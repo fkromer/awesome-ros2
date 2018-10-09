@@ -105,6 +105,7 @@
 - [lino2_upper](https://github.com/linorobot2/lino2_upper) - Linorobot on ROS2 ![lino2_upper](https://img.shields.io/github/stars/linorobot2/lino2_upper.svg).
 - [RysROS2](https://github.com/GroupOfRobots/RysROS2) - ROS2 software stack for MiniRys robots ![RysROS2](https://img.shields.io/github/stars/GroupOfRobots/RysROS2.svg).
 - [px4_to_ros](https://github.com/eProsima/px4_to_ros) - ROS2/ROS packages for communicate PX4 with ROS ![px4_to_ros](https://img.shields.io/github/stars/eProsima/px4_to_ros.svg).
+- [multiwii_ros2](https://github.com/christianrauch/multiwii_ros2) - ROS2 Node for MultiWii and Cleanflight flight controllers ![multiwii_ros2](https://img.shields.io/github/stars/christianrauch/multiwii_ros2.svg).
 
 ### Client libraries
 
