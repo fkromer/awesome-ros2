@@ -154,6 +154,7 @@
 - [OpenSplice](https://github.com/ADLINK-IST/opensplice) - Implementation of the OMG DDS Standard ![opensplice](https://img.shields.io/github/stars/ADLINK-IST/opensplice.svg) :heavy_dollar_sign: .
 - [CoreDX DDS](http://www.twinoakscomputing.com/coredx) - Implementation of Twin Oaks Computing, Inc. :heavy_dollar_sign: .
 - [freertps](https://github.com/ros2/freertps) - A free, portable, minimalist, work-in-progress RTPS implementation ![freertps](https://img.shields.io/github/stars/ros2/freertps.svg).
+- [cdds](https://github.com/atolab/cdds) - Cyclone DDS is developed completely in the open and is undergoing the acceptance process to become part of Eclipse IoT ![cdds](https://img.shields.io/github/stars/atolab/cdds.svg).
 
 ### Build system (Linux)
 
