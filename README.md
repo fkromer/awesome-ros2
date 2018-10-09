@@ -99,6 +99,7 @@
 - [ros2_intel_realsense](https://github.com/intel/ros2_intel_realsense) - ROS2 Wrapper for Intel® RealSense™ Devices ![ros2_intel_realsense](https://img.shields.io/github/stars/intel/ros2_intel_realsense.svg).
 - [raspicam2_node](https://github.com/christianrauch/raspicam2_node) - ROS2 node for camera module of Raspberry Pi ![raspicam2_node](https://img.shields.io/github/stars/christianrauch/raspicam2_node.svg).
 - [HRIM](https://github.com/erlerobot/HRIM) - A standard interface for robot modules.
+- [FIROS2](https://github.com/eProsima/FIROS2) - ROS2 integrable tool focused in the intercommunication between ROS2 and FIWARE ![FIROS2](https://img.shields.io/github/stars/eProsima/FIROS2.svg).
 
 ### Client libraries
 
