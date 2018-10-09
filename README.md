@@ -103,6 +103,7 @@
 - [FIROS2](https://github.com/eProsima/FIROS2) - ROS2 integrable tool focused in the intercommunication between ROS2 and FIWARE ![FIROS2](https://img.shields.io/github/stars/eProsima/FIROS2.svg).
 - [lino2_upper](https://github.com/linorobot2/lino2_upper) - Linorobot on ROS2 ![lino2_upper](https://img.shields.io/github/stars/linorobot2/lino2_upper.svg).
 - [RysROS2](https://github.com/GroupOfRobots/RysROS2) - ROS2 software stack for MiniRys robots ![RysROS2](https://img.shields.io/github/stars/GroupOfRobots/RysROS2.svg).
+- [px4_to_ros](https://github.com/eProsima/px4_to_ros) - ROS2/ROS packages for communicate PX4 with ROS ![px4_to_ros](https://img.shields.io/github/stars/eProsima/px4_to_ros.svg).
 
 ### Client libraries
 
