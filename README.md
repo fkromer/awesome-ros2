@@ -179,6 +179,10 @@
 
 ## Presentations
 
+### ROSCon JP 2018 (english slide presentations only)
+
+- What's next for ROS? (from slide 24 onwards) [Slides](https://roscon.jp/2018/presentations/ROSCon_JP_2018_presentation_2.pdf) [Video](https://vimeo.com/292064161)
+
 ### ROSCon 2018
 
 [program announcement](https://roscon.ros.org/2018/#program)
