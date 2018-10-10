@@ -264,6 +264,7 @@
 
 ## Papers
 
+- [Time Synchronization in modular collaborative robots](https://arxiv.org/pdf/1809.07295.pdf)
 - [Open Problems in Robotic Anomaly Detection](https://arxiv.org/pdf/1809.03565.pdf)
 - [Towards a distributed and real-time framework for robots: Evaluation of ROS 2.0 communications for real-time robotic applications](https://arxiv.org/pdf/1809.02595.pdf)
 - [An information model for modular robots: the Hardware Robot Information Model (HRIM)](https://arxiv.org/pdf/1802.01459.pdf)
