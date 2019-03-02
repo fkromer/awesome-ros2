@@ -4,6 +4,8 @@
 
 > A curated list of awesome Robot Operating System Version 2.0 (ROS 2) resources and libraries.
 
+The Robot Operating System 2 (ROS 2) is a set of software libraries and tools that help you build robot applications. From drivers to state-of-the-art algorithms, and with powerful developer tools, ROS 2 has what you need for your next robotics project. And it’s all open source.
+
 ## Contents
 
 - [Packages](#packages)
