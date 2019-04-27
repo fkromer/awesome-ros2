@@ -59,6 +59,7 @@ The Robot Operating System 2 (ROS 2) is a set of software libraries and tools th
 
 ### Application layer
 
+- [Apex.Autonomy](https://www.apex.ai/products) - Apex.Autonomy provides autonomy algorithms as individual building blocks and is compatible with Autoware.Auto.
 - [Autoware.Auto](https://www.autoware.auto/) - Autoware.Auto provides an open-source software stack based on ROS 2 for self-driving technology.
 - [ros2_control](https://github.com/ros-controls/ros2_control) - `ros2_control` is a proof of concept on how new features within ROS 2 can be elaborated and used in the context of robot control (`ros2_controllers`). ![ros2_control](https://img.shields.io/github/stars/ros-controls/ros2_control.svg)
 - [ros2_controllers](https://github.com/ros-controls/ros2_controllers) - Description of ros_controllers. ![ros2_controllers](https://img.shields.io/github/stars/ros-controls/ros2_controllers.svg)
