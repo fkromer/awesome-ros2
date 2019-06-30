@@ -240,6 +240,10 @@ The Robot Operating System 2 (ROS 2) is a set of software libraries and tools th
 
 - Current Status of ROS 2 Hands-on Feature Overview [Slides](https://static1.squarespace.com/static/51df34b1e4b08840dcfd2841/t/5ce6c85ca4222fe0ccbd5309/1558628472094/2019-05-07_Current_Status_of_ROS_2.pdf)
 
+### 2019
+
+- Robot Modularity with Xilinx and H-ROS (Xilinx Inc.) [Video](https://www.xilinx.com/video/events/robot-modularity-with-xilinx-and-h-ros.html)
+
 ### ROSCon JP 2018 (english slide presentations only)
 
 - What's next for ROS? (from slide 24 onwards) [Slides](https://roscon.jp/2018/presentations/ROSCon_JP_2018_presentation_2.pdf) [Video](https://vimeo.com/292064161)
