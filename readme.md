@@ -102,7 +102,7 @@ The Robot Operating System 2 (ROS 2) is a set of software libraries and tools th
 ### Driver layer
 
 - [Autoware.IO](https://www.autoware.io/) - Autoware.IO provides a heterogeneous hardware reference platform and enables the integration of member company's solutions onto platforms which support the Autoware.Auto and Autoware.AI software stack.
-- [ros2_xmlrpc](https://github.com/aarushsesto/ros2_xmlrpc) - ros2 interface package with xmlrpc, to communicate with a Sesto server using Sesto API. ![ros2_xmlrpc](https://img.shields.io/github/stars/aarushsesto/ros2_xmlrpc.svg)
+- [ros2_xmlrpc_interface](https://github.com/aarushsesto/ros2_xmlrpc_interface) - ros2 interface package with xmlrpc, to communicate with a Sesto server using Sesto API. ![ros2_xmlrpc](https://img.shields.io/github/stars/aarushsesto/ros2_xmlrpc_interface.svg)
 - [cozmo_driver_ros2](https://github.com/FurqanHabibi/cozmo_driver_ros2) - Unofficial Anki Cozmo node for ROS2. ![cozmo_driver_ros2](https://img.shields.io/github/stars/FurqanHabibi/cozmo_driver_ros2.svg)
 - [sphero_ros2](https://github.com/athackst/sphero_ros2) - ROS2 sphero driver. ![sphero_ros2](https://img.shields.io/github/stars/athackst/sphero_ros2.svg)
 - [flock2](https://github.com/clydemcqueen/flock2) - ROS2 driver for DJI Tello drones. ![flock2](https://img.shields.io/github/stars/clydemcqueen/flock2.svg)
