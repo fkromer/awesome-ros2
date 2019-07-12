@@ -82,6 +82,7 @@ The Robot Operating System 2 (ROS 2) is a set of software libraries and tools th
 - [ros2-web-bridge](https://github.com/RobotWebTools/ros2-web-bridge) - Bridging your browser to the ROS 2.0. ![ros2-web-bridge](https://img.shields.io/github/stars/RobotWebTools/ros2-web-bridge.svg)
 - [ros2_message_filters](https://github.com/intel/ros2_message_filters) - ros2_message_filters blends various messages based on the conditions that filter needs to met and derives from ROS2 porting of ROS message_filters. ![ros2_message_filters](https://img.shields.io/github/stars/intel/ros2_message_filters.svg)
 - [ros2-tensorflow](https://github.com/alsora/ros2-tensorflow) - ROS2 nodes for computer vision tasks in Tensorflow. ![ros2-tensorflow](https://img.shields.io/github/stars/alsora/ros2-tensorflow.svg)
+- [ros2_pytorch](https://github.com/klintan/ros2_pytorch) - ROS2 nodes for computer vision tasks in PyTorch ![ros2_pytorch](https://img.shields.io/github/stars/klintan/ros2_pytorch.svg).
 - [pid](https://github.com/UTNuclearRoboticsPublic/pid) - A PID controller for ROS2. ![pid](https://img.shields.io/github/stars/UTNuclearRoboticsPublic/pid.svg)
 - [system-modes](https://github.com/micro-ROS/system_modes) - System modes for ROS 2 and micro-ROS.
 
@@ -115,6 +116,7 @@ The Robot Operating System 2 (ROS 2) is a set of software libraries and tools th
 - [ros2_android_drivers](https://github.com/esteve/ros2_android_drivers) - Collection of ROS2 drivers for several Android sensors. ![ros2_android_drivers](https://img.shields.io/github/stars/esteve/ros2_android_drivers.svg)
 - [ros2_intel_realsense](https://github.com/intel/ros2_intel_realsense) - ROS2 Wrapper for Intel® RealSense™ Devices. ![ros2_intel_realsense](https://img.shields.io/github/stars/intel/ros2_intel_realsense.svg)
 - [raspicam2_node](https://github.com/christianrauch/raspicam2_node) - ROS2 node for camera module of Raspberry Pi. ![raspicam2_node](https://img.shields.io/github/stars/christianrauch/raspicam2_node.svg)
+- [ros2_track_imu](https://github.com/klintan/ros2_track_imu) - ROS2 node for TrackIMU IMU sensor![ros2_track_imu](https://img.shields.io/github/stars/klintan/ros2_track_imu.svg).
 - [HRIM](https://github.com/erlerobot/HRIM) - A standard interface for robot modules.
 - [FIROS2](https://github.com/eProsima/FIROS2) - ROS2 integrable tool focused in the intercommunication between ROS2 and FIWARE. ![FIROS2](https://img.shields.io/github/stars/eProsima/FIROS2.svg)
 - [lino2_upper](https://github.com/linorobot2/lino2_upper) - Linorobot on ROS2. ![lino2_upper](https://img.shields.io/github/stars/linorobot2/lino2_upper.svg)
