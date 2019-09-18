@@ -343,6 +343,7 @@ DDS Security.
 - [Amazon](https://github.com/aws-robotics) - Robotics Team of Amazon Amazon Web Services (AWS).
 - [Bosch](https://github.com/boschresearch) - Robotics Team of Bosch Research.
 - [Canonical](https://canonical.com/) - The company behind Ubuntu.
+- [Eprosima](https://www.eprosima.com/) - "The middleware experts".
 
 ## License
 
