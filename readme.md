@@ -19,6 +19,7 @@ The Robot Operating System 2 (ROS 2) is a set of software libraries and tools th
 - [Papers](#papers)
 - [Podcasts](#podcasts)
 - [Services](#services)
+- [Companies](#companies)
 
 ## Packages
 
@@ -334,6 +335,12 @@ DDS Security.
 - [RCTF playground](https://rctf.aliasrobotics.com/) - Online playground to challenge robot security from your browser.
 - [rctf-list](https://github.com/aliasrobotics/RCTF) - A list of Robotics CTF (RCTF) scenarios.
 - [Robot Bug Bounty Programs (RBBP)](https://www.aliasrobotics.com/bounties.htm) - Report bugs or vulnerabilities and get paid by top robotics companies.
+
+## Companies
+
+- [Alias Robotics](https://aliasrobotics.com/) - Products and services in the context of robot cybersecurity.
+- [ADLINK](https://www.adlinktech.com/en/index.aspx) - "Leading EDGE COMPUTING".
+- [Canonical](https://canonical.com/) - The company behind Ubuntu.
 
 ## License
 
