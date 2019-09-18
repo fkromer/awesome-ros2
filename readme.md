@@ -338,6 +338,7 @@ DDS Security.
 
 ## Companies
 
+- [Acutronic Robotics](https://github.com/AcutronicRobotics) - Not existing anymore. Initiators of the Hardware Robot Information Model (HRIM), Hardware Robot Operating System (H-ROS) and the world's first modular industrial robot arm MARA.
 - [ADLINK](https://www.adlinktech.com/en/index.aspx) - "Leading EDGE COMPUTING".
 - [Alias Robotics](https://aliasrobotics.com/) - Products and services in the context of robot cybersecurity.
 - [Amazon](https://github.com/aws-robotics) - Robotics Team of Amazon Amazon Web Services (AWS).
