@@ -341,6 +341,7 @@ DDS Security.
 - [ADLINK](https://www.adlinktech.com/en/index.aspx) - "Leading EDGE COMPUTING".
 - [Alias Robotics](https://aliasrobotics.com/) - Products and services in the context of robot cybersecurity.
 - [Amazon](https://github.com/aws-robotics) - Robotics Team of Amazon Amazon Web Services (AWS).
+- [Bosch](https://github.com/boschresearch) - Robotics Team of Bosch Research.
 - [Canonical](https://canonical.com/) - The company behind Ubuntu.
 
 ## License
