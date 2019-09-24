@@ -342,6 +342,8 @@ DDS Security.
 - [ADLINK](https://www.adlinktech.com/en/index.aspx) - "Leading EDGE COMPUTING".
 - [Alias Robotics](https://aliasrobotics.com/) - Products and services in the context of robot cybersecurity.
 - [Amazon](https://github.com/aws-robotics) - Robotics Team of Amazon Amazon Web Services (AWS).
+- [Apex.AI](https://www.apex.ai/) - "Safe and certified software for autonomous mobility".
+- [AutonomouStuff](https://autonomoustuff.com) - "The world leader in autonomy systems and solutions".
 - [Bosch](https://github.com/boschresearch) - Robotics Team of Bosch Research.
 - [Canonical](https://canonical.com/) - The company behind Ubuntu.
 - [Eprosima](https://www.eprosima.com/) - "The middleware experts".
