@@ -345,6 +345,7 @@ DDS Security.
 - [Bosch](https://github.com/boschresearch) - Robotics Team of Bosch Research.
 - [Canonical](https://canonical.com/) - The company behind Ubuntu.
 - [Eprosima](https://www.eprosima.com/) - "The middleware experts".
+- [MathWorks](https://de.mathworks.com/help/ros/index.html) - ROS Toolbox.
 
 ## License
 
