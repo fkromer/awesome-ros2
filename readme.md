@@ -348,6 +348,7 @@ DDS Security.
 - [Canonical](https://canonical.com/) - The company behind Ubuntu.
 - [Eprosima](https://www.eprosima.com/) - "The middleware experts".
 - [MathWorks](https://de.mathworks.com/help/ros/index.html) - ROS Toolbox.
+- [Rover Robotics](https://roverrobotics.com/) - Rugged, industrial-grade robots.
 
 ## License
 
