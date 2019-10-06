@@ -58,6 +58,11 @@ The Robot Operating System 2 (ROS 2) is a set of software libraries and tools th
 - [orocos_kinematics_dynamics](https://github.com/ros2/orocos_kinematics_dynamics) - Orocos Kinematics and Dynamics C++ library. ![orocos_kinematics_dynamics](https://img.shields.io/github/stars/ros2/orocos_kinematics_dynamics.svg)
 - [pydds](https://github.com/atolab/pydds) - Simple DDS Python API for Vortex Lite and for OpenSplice. ![pydds](https://img.shields.io/github/stars/atolab/pydds.svg)
 
+### Penetration testing
+
+- [aztarna](https://github.com/aliasrobotics/aztarna) - A footprinting tool for robots.
+- [ros2_fuzzer](https://github.com/aliasrobotics/ros2_fuzzer) - ROS2 Topic & Service Fuzzer.
+
 ### Application layer
 
 - [Apex.Autonomy](https://www.apex.ai/products) - Apex.Autonomy provides autonomy algorithms as individual building blocks and is compatible with Autoware.Auto.
