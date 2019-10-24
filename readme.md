@@ -365,6 +365,8 @@ DDS Security.
   - [Safety Design Pattern Catalogue](http://www.ros2.org/safety_working_group/safety_patterns_catalogue.html)
 - Security Working Group
   - [Discourse threads tagged "wg-security"](https://discourse.ros.org/tags/wg-security)
+- Technical Steering Committee
+  - [Discourse threads tagged "tsc"](https://discourse.ros.org/tags/tsc)
 
 ## License
 
