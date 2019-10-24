@@ -20,6 +20,7 @@ The Robot Operating System 2 (ROS 2) is a set of software libraries and tools th
 - [Podcasts](#podcasts)
 - [Services](#services)
 - [Companies](#companies)
+- [Working groups](#working-groups)
 
 ## Packages
 
@@ -354,6 +355,12 @@ DDS Security.
 - [Eprosima](https://www.eprosima.com/) - "The middleware experts".
 - [MathWorks](https://de.mathworks.com/help/ros/index.html) - ROS Toolbox.
 - [Rover Robotics](https://roverrobotics.com/) - Rugged, industrial-grade robots.
+
+## Working Groups
+
+- Safety Working Group
+  - [Safety Working Group Landing Page](http://www.ros2.org/safety_working_group/)
+  - [Safety Design Pattern Catalogue](http://www.ros2.org/safety_working_group/safety_patterns_catalogue.html)
 
 ## License
 
