@@ -358,9 +358,13 @@ DDS Security.
 
 ## Working Groups
 
+- Navigation Working Group
+  - [Discourse threads tagged "wg-navigation"](https://discourse.ros.org/tags/wg-navigation)
 - Safety Working Group
   - [Safety Working Group Landing Page](http://www.ros2.org/safety_working_group/)
   - [Safety Design Pattern Catalogue](http://www.ros2.org/safety_working_group/safety_patterns_catalogue.html)
+- Security Working Group
+  - [Discourse threads tagged "wg-security"](https://discourse.ros.org/tags/wg-security)
 
 ## License
 
