@@ -367,6 +367,8 @@ DDS Security.
   - [Discourse threads tagged "wg-security"](https://discourse.ros.org/tags/wg-security)
 - Technical Steering Committee
   - [Discourse threads tagged "tsc"](https://discourse.ros.org/tags/tsc)
+- Tooling Working Group
+  - [Discourse threads tagged "wg-tooling"](https://discourse.ros.org/tags/wg-tooling)
 
 ## License
 
