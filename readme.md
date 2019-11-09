@@ -355,6 +355,7 @@ DDS Security.
 - [Eprosima](https://www.eprosima.com/) - "The middleware experts".
 - [MathWorks](https://de.mathworks.com/help/ros/index.html) - ROS Toolbox.
 - [Rover Robotics](https://roverrobotics.com/) - Rugged, industrial-grade robots.
+- [Wind River](https://labs.windriver.com/ros2-for-vxworks/) - ROS2 for VxWorks.
 
 ## Working Groups
 
