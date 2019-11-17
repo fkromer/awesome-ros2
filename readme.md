@@ -359,6 +359,8 @@ DDS Security.
 
 ## Working Groups
 
+- Embedded Working Group
+  - [Discourse threads tagged "wg-embedded"](https://discourse.ros.org/tags/wg-embedded)
 - Navigation Working Group
   - [Discourse threads tagged "wg-navigation"](https://discourse.ros.org/tags/wg-navigation)
 - Safety Working Group
