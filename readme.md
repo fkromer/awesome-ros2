@@ -353,6 +353,7 @@ DDS Security.
 - [Bosch](https://github.com/boschresearch) - Robotics Team of Bosch Research.
 - [Canonical](https://canonical.com/) - The company behind Ubuntu.
 - [Eprosima](https://www.eprosima.com/) - "The middleware experts".
+- [Fraunhofer Institute for Manufacturing Engineering and Automation IPA](https://www.ipa.fraunhofer.de/en/expertise/robot-and-assistive-systems.html) - Robot and assistive systems.
 - [Klepsydra Technologies](https://www.klepsydra.com/).
 - [MathWorks](https://de.mathworks.com/help/ros/index.html) - ROS Toolbox.
 - [Rover Robotics](https://roverrobotics.com/) - Rugged, industrial-grade robots.
