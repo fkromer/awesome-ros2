@@ -371,6 +371,7 @@ DDS Security.
   - [Safety Design Pattern Catalogue](http://www.ros2.org/safety_working_group/safety_patterns_catalogue.html)
 - Security Working Group
   - [Discourse threads tagged "wg-security"](https://discourse.ros.org/tags/wg-security)
+  - [ros-security/community](https://github.com/ros-security/community) - Outlines the governance of the ROS 2 Security Working Group.
 - Technical Steering Committee
   - [Discourse threads tagged "tsc"](https://discourse.ros.org/tags/tsc)
 - Tooling Working Group
