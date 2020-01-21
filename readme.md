@@ -246,6 +246,14 @@ The Robot Operating System 2 (ROS 2) is a set of software libraries and tools th
 
 ## Presentations
 
+### ROSCon 2019
+
+[Program announcement](https://roscon.ros.org/2019/#program)(slides + videos)
+
+### ROSCon Fr 2019
+
+[Program announcement](https://roscon.fr/#program)(slides + videos)
+
 ### ROS-I EU Spring 2019 Workshop
 
 - Current Status of ROS 2 Hands-on Feature Overview [Slides](https://static1.squarespace.com/static/51df34b1e4b08840dcfd2841/t/5ce6c85ca4222fe0ccbd5309/1558628472094/2019-05-07_Current_Status_of_ROS_2.pdf)
