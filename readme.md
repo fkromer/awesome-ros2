@@ -372,6 +372,8 @@ DDS Security.
 
 ## Working Groups
 
+- Edge AI Working Group
+  - [Discourse threads tagged "wg-edgeai"](lhttps://discourse.ros.org/tag/wg-edgeai)
 - Embedded Working Group
   - [Discourse threads tagged "wg-embedded"](https://discourse.ros.org/tags/wg-embedded)
 - Navigation Working Group
