@@ -204,6 +204,7 @@ The Robot Operating System 2 (ROS 2) is a set of software libraries and tools th
 - [NuttX](https://github.com/micro-ROS/NuttX) - NuttX fork of the official one for use with micro-ROS.
 - [RIOT](https://github.com/RIOT-OS/RIOT) - RIOT is a real-time multi-threading operating system (...,) real-time capabilities, small memory footprint, (...) API offers partial POSIX compliance.
 - [eMCOS](https://www.esol.com/embedded/emcos.html) - POSIX-compliant real-time OS for many-core processors expected to suppport AUTOSAR in the future.
+- [Zephyr](https://www.zephyrproject.org/) - Linux Foundation Projects RTOS aiming at beeing secure and safe.
 
 ## Forks
 
