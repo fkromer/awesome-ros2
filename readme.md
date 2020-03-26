@@ -348,9 +348,7 @@ DDS Security.
 
 ### Robotics Capture the Flag (RCTF)
 
-- [RCTF playground](https://rctf.aliasrobotics.com/) - Online playground to challenge robot security from your browser.
 - [rctf-list](https://github.com/aliasrobotics/RCTF) - A list of Robotics CTF (RCTF) scenarios.
-- [Robot Bug Bounty Programs (RBBP)](https://www.aliasrobotics.com/bounties.htm) - Report bugs or vulnerabilities and get paid by top robotics companies.
 
 ## Companies
 
