@@ -92,7 +92,7 @@ The Robot Operating System 2 (ROS 2) is a set of software libraries and tools th
 - [ros2_pytorch](https://github.com/klintan/ros2_pytorch) - ROS2 nodes for computer vision tasks in PyTorch ![ros2_pytorch](https://img.shields.io/github/stars/klintan/ros2_pytorch.svg).
 - [pid](https://github.com/UTNuclearRoboticsPublic/pid) - A PID controller for ROS2. ![pid](https://img.shields.io/github/stars/UTNuclearRoboticsPublic/pid.svg)
 - [system-modes](https://github.com/micro-ROS/system_modes) - System modes for ROS 2 and micro-ROS.
-- [Webots](https://cyberbotics.com) - Robot Simulator for ROS 2 ![webots](https://img.shields.io/github/stars/cyberbotics/webots.svg)
+- [Webots](https://cyberbotics.com) - Robot simulator for ROS 2 ![webots](https://img.shields.io/github/stars/cyberbotics/webots.svg).
 
 ### Middleware
 
