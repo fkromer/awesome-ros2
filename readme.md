@@ -368,6 +368,7 @@ DDS Security.
 - [Fraunhofer Institute for Manufacturing Engineering and Automation IPA](https://www.ipa.fraunhofer.de/en/expertise/robot-and-assistive-systems.html) - Robot and assistive systems.
 - [Klepsydra Technologies](https://www.klepsydra.com/).
 - [MathWorks](https://de.mathworks.com/help/ros/index.html) - ROS Toolbox.
+- [Roboception GmbH](https://roboception.com/en/) - Real-Time Perception for Your Robot.
 - [ROBOOX](https://roboox.co/) - OPEN-SOURCE SOFTWARE ECOSYSTEM FOR CONSUMER ROBOTS.
 - [Rover Robotics](https://roverrobotics.com/) - Rugged, industrial-grade robots.
 - [Sony Corporation](https://www.sony.net/SonyInfo/technology/element/robotics/).
