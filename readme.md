@@ -381,6 +381,7 @@ DDS Security.
 - [ROBOOX](https://roboox.co/) - OPEN-SOURCE SOFTWARE ECOSYSTEM FOR CONSUMER ROBOTS.
 - [Rover Robotics](https://roverrobotics.com/) - Rugged, industrial-grade robots.
 - [Sony Corporation](https://www.sony.net/SonyInfo/technology/element/robotics/).
+- [synapticon](https://www.synapticon.com/technology) - ROS compatible motion control and drive products with efforts to support ROS2.
 - [Wind River](https://labs.windriver.com/ros2-for-vxworks/) - ROS2 for VxWorks.
 
 ## Working Groups
