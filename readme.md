@@ -213,6 +213,7 @@ The Robot Operating System 2 (ROS 2) is a set of software libraries and tools th
 - [NuttX](https://github.com/micro-ROS/NuttX) - NuttX fork of the official one for use with micro-ROS.
 - [RIOT](https://github.com/RIOT-OS/RIOT) - RIOT is a real-time multi-threading operating system (...,) real-time capabilities, small memory footprint, (...) API offers partial POSIX compliance.
 - [eMCOS](https://www.esol.com/embedded/emcos.html) - POSIX-compliant real-time OS for many-core processors expected to suppport AUTOSAR in the future.
+- [PYNQ](http://www.pynq.io/) - Python-based rapid prototyping of high performance ML applications running on XILINX FPGAs.
 - [Ubuntu Core](https://ubuntu.com/core) - Build secure IoT devices with Ubuntu Core.
 - [Ubuntu Server](https://ubuntu.com/server)
 - [VxWorks](https://github.com/Wind-River/vxworks7-ros2-build) - The Secure, Safe, Reliable, and Certifiable real-time OS for Critical Infrastructure
