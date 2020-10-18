@@ -223,7 +223,7 @@ The Robot Operating System 2 (ROS 2) is a set of software libraries and tools th
 
 ## Forks
 
-- [Apex.OS](https://www.apex.ai/products) - Apex.OS is a fork of ROS 2 that has been made so robust and reliable that it can be used in safety-critical applications.
+- [Apex.OS](https://www.apex.ai/apex-os) - Apex.OS is a fork of ROS 2 that has been made so robust and reliable that it can be used in safety-critical applications.
 
 ## Documentation
 
