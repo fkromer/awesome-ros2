@@ -391,6 +391,7 @@ DDS Security.
 - [Canonical](https://canonical.com/) - The company behind Ubuntu.
 - [Eprosima](https://www.eprosima.com/) - "The middleware experts".
 - [Ericsson Research](https://discourse.ros.org/t/transport-priority-qos-policy-to-solve-ip-flow-ambiguity-while-requesting-5g-network-qos/15332) - Connect ROS2 applications to 5G networks for M2M communication.
+- [FARobot](https://www.farobottech.com/) - Swarm Robot System, a ROS 2/DDS based Fleet Management System.
 - [Fraunhofer Institute for Manufacturing Engineering and Automation IPA](https://www.ipa.fraunhofer.de/en/expertise/robot-and-assistive-systems.html) - Robot and assistive systems.
 - [GESTALT ROBOTICS](https://www.gestalt-robotics.com/en/home) - Service provider for intelligent automation.
 - [Klepsydra Technologies](https://www.klepsydra.com/).
