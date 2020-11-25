@@ -20,6 +20,7 @@ The Robot Operating System 2 (ROS 2) is a set of software libraries and tools th
 - [Podcasts](#podcasts)
 - [Services](#services)
 - [Companies](#companies)
+- [Organizations](#organizations)
 - [Working groups](#working-groups)
 
 ## Packages
