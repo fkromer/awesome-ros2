@@ -404,6 +404,7 @@ DDS Security.
 - [GESTALT ROBOTICS](https://www.gestalt-robotics.com/en/home) - Service provider for intelligent automation.
 - [Klepsydra Technologies](https://www.klepsydra.com/).
 - [MathWorks](https://de.mathworks.com/help/ros/index.html) - ROS Toolbox.
+- [Mission Robotics](https://missionrobotics.us/) - Hardware and Software for a new era of Marine Intelligence.
 - [Roboception GmbH](https://roboception.com/en/) - Real-Time Perception for Your Robot.
 - [ROBOOX](https://roboox.co/) - OPEN-SOURCE SOFTWARE ECOSYSTEM FOR CONSUMER ROBOTS.
 - [Rover Robotics](https://roverrobotics.com/) - Rugged, industrial-grade robots.
