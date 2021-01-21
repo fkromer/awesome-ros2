@@ -402,6 +402,7 @@ DDS Security.
 - [FARobot](https://www.farobottech.com/) - Swarm Robot System, a ROS 2/DDS based Fleet Management System.
 - [Fraunhofer Institute for Manufacturing Engineering and Automation IPA](https://www.ipa.fraunhofer.de/en/expertise/robot-and-assistive-systems.html) - Robot and assistive systems.
 - [GESTALT ROBOTICS](https://www.gestalt-robotics.com/en/home) - Service provider for intelligent automation.
+- [iRobot](https://www.irobot.de/) - Manufacturer of vacuuming and mopping robots.
 - [Klepsydra Technologies](https://www.klepsydra.com/).
 - [MathWorks](https://de.mathworks.com/help/ros/index.html) - ROS Toolbox.
 - [Mission Robotics](https://missionrobotics.us/) - Hardware and Software for a new era of Marine Intelligence.
