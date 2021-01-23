@@ -65,6 +65,10 @@ The Robot Operating System 2 (ROS 2) is a set of software libraries and tools th
 - [LGSVL](https://www.lgsvlsimulator.com/) - Simulation software to accelerate safe autonomous vehicle development.
 - [Unity Robotics Hub](https://github.com/Unity-Technologies/Unity-Robotics-Hub) - This is a central repository for tools, tutorials, resources, and documentation for robotic simulation in Unity.
 
+### Interactivity
+
+- [Jupyter ROS2](https://github.com/zmk5/jupyter-ros2) - Jupyter widget helpers for ROS2.
+
 ### Penetration testing
 
 - [aztarna](https://github.com/aliasrobotics/aztarna) - A footprinting tool for robots.
