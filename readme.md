@@ -108,6 +108,7 @@ The Robot Operating System 2 (ROS 2) is a set of software libraries and tools th
 - [ros2_pytorch](https://github.com/klintan/ros2_pytorch) - ROS2 nodes for computer vision tasks in PyTorch ![ros2_pytorch](https://img.shields.io/github/stars/klintan/ros2_pytorch.svg).
 - [pid](https://github.com/UTNuclearRoboticsPublic/pid) - A PID controller for ROS2. ![pid](https://img.shields.io/github/stars/UTNuclearRoboticsPublic/pid.svg)
 - [system-modes](https://github.com/micro-ROS/system_modes) - System modes for ROS 2 and micro-ROS.
+- [darknet_ros](https://github.com/leggedrobotics/darknet_ros/tree/ros2) - ROS2 wrapper for deploying Darknet's YOLO Computer Vision model.
 
 ### Middleware
 
@@ -238,6 +239,7 @@ The Robot Operating System 2 (ROS 2) is a set of software libraries and tools th
 ## Documentation
 
 - [ROS Index](https://index.ros.org/) - Future single entry point into ROS2 documentation (BETA).
+  - [Foxy packages](https://index.ros.org/packages/page/1/time/#foxy).
   - [Dashing packages](https://index.ros.org/packages/page/1/time/#dashing).
   - [Crystal packages](https://index.ros.org/packages/page/1/time/#crystal).
   - [Bouncy packages](https://index.ros.org/packages/page/1/time/#bouncy).
@@ -326,7 +328,7 @@ The Robot Operating System 2 (ROS 2) is a set of software libraries and tools th
 - Node.js Client & Web Bridge Ready for ROS 2.0
 - RCLAda: the Ada client library for ROS2
 
-### Embedded World Conference 2018 
+### Embedded World Conference 2018
 
 - ADLink Neuron: An industrial oriented ROS2-based platform [Slides](https://raw.githubusercontent.com/Adlink-ROS/adlink_neuronbot/master/document/ADLINK_NeuronBot_20180313.pdf) [Video](https://www.youtube.com/watch?v=RC6XvTvTs9Y&feature=youtu.be) [Video](https://www.youtube.com/watch?v=qA4_Hmnd_tM&feature=youtu.be)
 
