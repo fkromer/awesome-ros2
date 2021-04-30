@@ -117,6 +117,8 @@ The Robot Operating System 2 (ROS 2) is a set of software libraries and tools th
 - [Micro XRCE-DDS Agent docker](https://hub.docker.com/r/eprosima/micro-xrce-dds-agent/) - Docker image containing the Micro XRCE-DDS Agent.
 - [Micro XRCE-DDS Client](https://github.com/eProsima/Micro-XRCE-DDS-Client) - Micro XRCE-DDS implements a client-server protocol to enable resource-constrained devices (clients) to take part in DDS communications.
 - [micro-ROS-Agent](https://github.com/micro-ROS/micro-ROS-Agent) - ROS 2 package using Micro XRCE-DDS Agent.
+- [Eclipse Zenoh](https://github.com/eclipse-zenoh/zenoh) - [Zenoh](https://zenoh.io) is a scalable and extremely performant protocol that can be used transparently used to interact with [ROS2 applications](https://zenoh.io/blog/2021-04-28-ros2-integration/) as well as for [R2X communication](https://zenoh.io/blog/2021-03-23-discovery/).
+- [Eclipse Zenoh-Plugin-DDS](https://github.com/eclipse-zenoh/zenoh-plugin-dds) - This is a [zenoh](https://zenoh.io) plugin that allows to transparently route ROS2/DDS data over zenoh. This is commonly used for [R2X communication](https://zenoh.io/blog/2021-03-23-discovery/) over Wireless network or across the Internet. 
 
 ### "System" bindings
 
