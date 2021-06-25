@@ -202,7 +202,8 @@ The Robot Operating System 2 (ROS 2) is a set of software libraries and tools th
 - [rcutils](https://github.com/ros2/rcutils) - Common C functions and data structures used in ROS 2. ![rmw](https://img.shields.io/github/stars/ros2/rcutils.svg)
 - [freertps](https://github.com/ros2/freertps) - a free, portable, minimalist, work-in-progress RTPS implementation. ![rmw](https://img.shields.io/github/stars/ros2/freertps.svg)
 - [rmw_cyclonedds](https://github.com/atolab/rmw_cyclonedds) - ROS2 RMW layer for Eclipse Cyclone DDS. ![rmw_cyclonedds](https://img.shields.io/github/stars/atolab/rmw_cyclonedds.svg)
-- [rmw_zenoh](https://github.com/esteve/rmw_zenoh) - ROS2 RMW layer for [zenoh](https://zenoh.io). (https://img.shields.io/github/stars/esteve/rmw_zenoh)
+- [rmw_zenoh](https://github.com/esteve/rmw_zenoh) - ROS2 RMW layer for [zenoh](https://zenoh.io).
+- [rmw_iceoryx](https://github.com/ros2/rmw_iceoryx) - Enables usage of the inter-process-communication middleware [Eclipse iceoryx](https://iceoryx.io).
 
 ### DDS communication mechanism implementations
 
