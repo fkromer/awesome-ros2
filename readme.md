@@ -261,6 +261,7 @@ The Robot Operating System 2 (ROS 2) is a set of software libraries and tools th
   - [Ardent package status](http://repo.ros2.org/status_page/ros_ardent_default.html) - Status of ROS2 Ardent packages.
 - [ROS2 Buildfarm](http://build.ros2.org) - Build information (Jenkins build farm).
 - [ROS2 CLI cheats sheet](https://github.com/artivis/ros2_cheats_sheet/blob/master/cli/cli_cheats_sheet.pdf) - A cheats sheet for ROS 2 Command Line Interface.
+- [ROS2 Quality Assurance Guidelines](https://github.com/ros-industrial/ros2_quality_assurance_guidelines) - A collection of guidelines and tutorials for improving package quality, following REP-2004 quality standards and integrating Continuous Integration.
 
 ## Community
 
