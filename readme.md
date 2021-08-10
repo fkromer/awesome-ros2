@@ -438,6 +438,8 @@ DDS Security.
   - [Discourse threads tagged "wg-edgeai"](https://discourse.ros.org/tag/wg-edgeai)
 - Embedded Working Group
   - [Discourse threads tagged "wg-embedded"](https://discourse.ros.org/tags/wg-embedded)
+- Hardware Acceleration Working Group
+  - [Discourse threads tagged "wg-acceleration"](https://discourse.ros.org/tag/wg-acceleration)
 - Navigation Working Group
   - [Discourse threads tagged "wg-navigation"](https://discourse.ros.org/tags/wg-navigation)
 - Safety Working Group
