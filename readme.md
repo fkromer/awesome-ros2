@@ -65,6 +65,7 @@ The Robot Operating System 2 (ROS 2) is a set of software libraries and tools th
 - [LGSVL](https://www.lgsvlsimulator.com/) - Simulation software to accelerate safe autonomous vehicle development.
 - [Unity Robotics Hub](https://github.com/Unity-Technologies/Unity-Robotics-Hub) - This is a central repository for tools, tutorials, resources, and documentation for robotic simulation in Unity.
 - [Foxglove Studio](https://github.com/foxglove/studio) - Integrated visualization and diagnosis tool for robotics. ![foxglove studio](https://img.shields.io/github/stars/foxglove/studio.svg)
+- [ROS2 For Unity](https://github.com/RobotecAI/ros2-for-unity) - An asset package which enables high-performance communication between Unity3D simulations and ROS2 ecosystem. ![ros2-for-unity](https://img.shields.io/github/stars/RobotecAI/ros2-for-unity.svg)
 
 ### Interactivity
 
@@ -175,6 +176,7 @@ The Robot Operating System 2 (ROS 2) is a set of software libraries and tools th
 - [rclc](https://github.com/ros2/rclc) - ROS Client Library for C. ![rclc](https://img.shields.io/github/stars/ros2/rclc.svg)
 - [ros2_rust](https://github.com/ros2-rust/ros2_rust) - Rust bindings for ROS2. ![ros2_rust](https://img.shields.io/github/stars/esteve/ros2_rust.svg)
 - [ros2_dotnet](https://github.com/esteve/ros2_dotnet) - .NET bindings for ROS2. ![ros2_dotnet](https://img.shields.io/github/stars/esteve/ros2_dotnet.svg)
+- [ros2cs](https://github.com/RobotecAI/ros2cs) - an alternative to ros2_dotnet, a ROS2 C# interface supporting full range of messages and modern ROS2. ![ros2cs](https://img.shields.io/github/stars/RobotecAI/ros2cs.svg)
 
 ### Client libraries common
 
