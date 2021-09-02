@@ -131,6 +131,8 @@ The Robot Operating System 2 (ROS 2) is a set of software libraries and tools th
 - [riot-ros2](https://github.com/astralien3000/riot-ros2) - This project enables ROS2 to run on microcontrollers using the RIOT Operating System. ![riot-ros2](https://img.shields.io/github/stars/astralien3000/riot-ros2.svg)
 - [ROS2-Integration-Service](https://github.com/eProsima/ROS2-Integration-Service) - ROS2 Integration and Routing which provides a complete tool to integrate other technologies with ROS2 easily and enable ROS2 on WAN/Internet.
 - [soss](https://github.com/osrf/soss) - The System Of Systems Synthesizer is used to integrate ROS2 via ROS2-Integration-Service with other (communication) systems.
+- [micro_ros_arduino](https://github.com/micro-ROS/micro_ros_arduino) - Integration of micro-ROS into Arduino software platform projects.
+- [micro_ros_zephyr_module](https://github.com/micro-ROS/micro_ros_zephyr_module) - Integration of micro-ROS in Zeyphr OS based projects.
 
 ### Driver layer
 
