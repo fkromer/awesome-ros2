@@ -238,6 +238,7 @@ The Robot Operating System 2 (ROS 2) is a set of software libraries and tools th
 - [RIOT](https://github.com/RIOT-OS/RIOT) - RIOT is a real-time multi-threading operating system (...,) real-time capabilities, small memory footprint, (...) API offers partial POSIX compliance.
 - [eMCOS](https://www.esol.com/embedded/emcos.html) - POSIX-compliant real-time OS for many-core processors expected to support AUTOSAR in the future.
 - [PYNQ](http://www.pynq.io/) - Python-based rapid prototyping of high performance ML applications running on XILINX FPGAs.
+- [ReconROS](https://github.com/Lien182/ReconROS) - Framework for ROS2 FPGA-based hardware acceleration. Based on [ReconOS](https://github.com/reconos/reconos). ![ReconROS](https://img.shields.io/github/stars/Lien182/ReconROS.svg)
 - [Ubuntu Core](https://ubuntu.com/core) - Build secure IoT devices with Ubuntu Core.
 - [Ubuntu Server](https://ubuntu.com/server)
 - [VxWorks](https://github.com/Wind-River/vxworks7-ros2-build) - The Secure, Safe, Reliable, and Certifiable real-time OS for Critical Infrastructure
