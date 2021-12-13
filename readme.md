@@ -54,8 +54,7 @@ The Robot Operating System 2 (ROS 2) is a set of software libraries and tools th
 
 ### Networking
 
-- [Husarnet VPN](https://github.com/husarnet/husarnet)- A P2P, secure network layer dedicated for ROS & ROS 2.
-[husarnet](https://img.shields.io/github/stars/husarnet/husarnet.svg)
+- [Husarnet VPN](https://github.com/husarnet/husarnet)- A P2P, secure network layer dedicated for ROS & ROS 2. ![husarnet](https://img.shields.io/github/stars/husarnet/husarnet.svg)
 
 ### Ecosystem
 
