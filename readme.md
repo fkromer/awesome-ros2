@@ -50,7 +50,7 @@ The Robot Operating System 2 (ROS 2) is a set of software libraries and tools th
 - [ros2_java_docker](https://github.com/esteve/ros2_java_docker) - Dockerfiles for building ros2_java with OpenJDK and Android. ![ros2_java_docker](https://img.shields.io/github/stars/esteve/ros2_java_docker.svg)
 - [micro-ROS/docker](https://github.com/micro-ROS/docker) - Docker-related material to setup, configure and develop with micro-ROS hardware.
 - [ros-tooling/cross_compile](https://github.com/ros-tooling/cross_compile) - Cross compile ROS and ROS 2 workspaces to non-native architectures and generate corresponding Docker images.
-- [Connecting ROS 2 nodes over the internet](https://husarnet.com/blog/ros2-docker)
+- [ros2-docker](https://husarnet.com/blog/ros2-docker) - Connecting ROS 2 nodes running in Docker containers over the internet
 
 ### Networking
 
