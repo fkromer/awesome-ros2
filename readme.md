@@ -11,6 +11,7 @@ The Robot Operating System 2 (ROS 2) is a set of software libraries and tools th
 - [Packages](#packages)
 - [Forks](#forks)
 - [Operating systems](#operating-systems)
+- [Packaging](#packaging)
 - [Documentation](#documentation)
 - [Community](#community)
 - [Books](#books)
@@ -253,6 +254,10 @@ The Robot Operating System 2 (ROS 2) is a set of software libraries and tools th
 - [Ubuntu Server](https://ubuntu.com/server)
 - [VxWorks](https://github.com/Wind-River/vxworks7-ros2-build) - The Secure, Safe, Reliable, and Certifiable real-time OS for Critical Infrastructure
 - [Zephyr](https://www.zephyrproject.org/) - Linux Foundation Projects RTOS aiming at beeing secure and safe.
+
+## Packaging
+
+- [ros2-snap](https://snapcraft.io/docs/ros2-applications) - Create a snap for your ROS 2 application.
 
 ## Forks
 
