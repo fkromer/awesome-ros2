@@ -286,6 +286,8 @@ The Robot Operating System 2 (ROS 2) is a set of software libraries and tools th
 - [ROS2 Buildfarm](http://build.ros2.org) - Build information (Jenkins build farm).
 - [ROS2 CLI cheats sheet](https://github.com/artivis/ros2_cheats_sheet/blob/master/cli/cli_cheats_sheet.pdf) - A cheats sheet for ROS 2 Command Line Interface.
 - [ROS2 Quality Assurance Guidelines](https://github.com/ros-industrial/ros2_quality_assurance_guidelines) - A collection of guidelines and tutorials for improving package quality, following REP-2004 quality standards and integrating Continuous Integration.
+- [Colors](https://github.com/jkk-research/colors) - Some recommended colors for ROS / ROS2 ![colors](https://img.shields.io/github/stars/jkk-research/colors.svg)
+- [ROS1 to ROS2](https://github.com/jkk-research/ros1ros2) - Small C++ / Python / launch / Cmake / command examples, ROS1 and ROS2 equivalents. ![ros1ros2](https://img.shields.io/github/stars/jkk-research/ros1ros2.svg)
 
 ## Community
 
