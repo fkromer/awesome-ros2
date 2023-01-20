@@ -324,6 +324,33 @@ The Robot Operating System 2 (ROS 2) is a set of software libraries and tools th
 ### ROSCon 2022
 
 [Program announcement](https://roscon.ros.org/2022/#program)(slides + videos)
+- Panel: The ROS 2 Developer Experience [video](https://vimeo.com/showcase/9954564/video/767155188)
+- Wearable ROS: Development of wearable robot system using ROS 2 [video](https://vimeo.com/showcase/9954564/video/767140298)
+- Building ROS 2 enabled Android apps with C++ [video](https://vimeo.com/showcase/9954564/video/767161955)
+- Distributed Robotics Simulator with Unreal Engine [video](https://vimeo.com/showcase/9954564/video/767139975)
+- Tools and processes for improving the certifiability of ROS 2 [video](https://vimeo.com/showcase/9954564/video/767150613)
+- Failover ROS Framework : Consensus-based node redundancy [video](https://vimeo.com/showcase/9954564/video/767156308)
+- ROS 2 and Gazebo Integration Best Practices [video](https://vimeo.com/showcase/9954564/video/767127300)
+- Chain-Aware ROS Evaluation Tool (CARET) [video](https://vimeo.com/showcase/9954564/video/767150288)
+- ROS 2 network monitoring [video](https://vimeo.com/showcase/9954564/video/767140681)
+- How custom tasks are defined, assigned, and executed in Open-RMF [video](https://vimeo.com/showcase/9954564/video/767157210)
+- A practitioner's guide to ros2_control [video](https://vimeo.com/showcase/9954564/video/767139648)
+- Zenoh: How to Make ROS 2 Work at any Scale and Integrate with Anything [video](https://vimeo.com/769972405)
+- A case study in optics manufacturing with MoveIt2 and ros2_control [video](https://vimeo.com/showcase/9954564/video/767140351)
+- 20/20 Robot Vision - How to setup cameras in ROS 1 & ROS 2 using camera_aravis [video](https://vimeo.com/showcase/9954564/video/767140329)
+- Filter your ROS 2 content [video](https://vimeo.com/767166447)
+- Evolving Message Types, and Other Interfaces, Over Time [video](https://vimeo.com/showcase/9954564/video/767140015)
+- Migrating from ROS1 to ROS 2 - choosing the right bridge [video](https://vimeo.com/showcase/9954564/video/767140113)
+- On Use of Nav2 Smac Planners [video](https://vimeo.com/showcase/9954564/video/767157646)
+- Bazel and ROS 2 – building large scale safety applications [video](https://vimeo.com/showcase/9954564/video/767139879)
+- Native Rust components for ROS 2 [video](https://vimeo.com/showcase/9954564/video/767140150)
+- The ROS build farm and you: How ROS packages you release become binary packages. [video](https://vimeo.com/showcase/9954564/video/767169376)
+- mROS 2: yet another runtime environment onto embedded devices [video](https://vimeo.com/showcase/9954564/video/767150435)
+- ROS 2 & Edge Impulse: Embedded AI in robotics applications [video](https://vimeo.com/showcase/9954564/video/767140724)
+- micro-ROS goes Automotive: supporting AUTOSAR-based microcontrollers [video](https://vimeo.com/769963507)
+- An open architecture for Hardware Acceleration in ROS 2 [video](https://vimeo.com/769967795)
+- ROS 2 and the Crazyflie: Aerial swarms and Autonomy with a tiny flying robot [video](https://vimeo.com/showcase/9954564/video/767140197)
+- A Raspberry Pi image with ROS 2 + RT and a customizable image builder [video](https://vimeo.com/showcase/9954564/video/767139709)
 
 ### ROSCon 2021
 
