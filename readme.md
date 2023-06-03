@@ -302,7 +302,7 @@ The Robot Operating System 2 (ROS 2) is a set of software libraries and tools th
 
 ## Books
 
-**No books published yet**
+- [A Concise Introduction to Robot Programming with ROS2](https://github.com/fmrico/book_ros2)
 
 ## Courses
 
