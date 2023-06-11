@@ -130,6 +130,7 @@ The Robot Operating System 2 (ROS 2) is a set of software libraries and tools th
 - [easy_perception_deployment](https://github.com/ros-industrial/easy_perception_deployment) - Package that accelerates training and deployment of Computer Vision models for industries. ![easy_perception_deployment](https://img.shields.io/github/stars/ros-industrial/easy_perception_deployment.svg)
 - [easy_manipulation_deployment](https://github.com/ros-industrial/easy_manipulation_deployment) - Package that integrates perception elements to establish an end-to-end pick and place task. ![easy_manipulation_deployment](https://img.shields.io/github/stars/ros-industrial/easy_manipulation_deployment.svg)
 - [ros2_pid_library](https://github.com/dottantgal/ros2_pid_library) - A ROS2 Humble fully configurable PID library ![ros2_pid_library](https://img.shields.io/github/stars/dottantgal/ros2_pid_library.svg)
+- [wayp_plan_tools](https://github.com/jkk-research/wayp_plan_tools) - Waypoint and planner tools for ROS 2 with minimal dependencies and an optional Gazebo Fortress simulation. ![wayp_plan_tools](https://img.shields.io/github/stars/jkk-research/wayp_plan_tools.svg)
 
 ### Middleware
 
