@@ -32,8 +32,9 @@ The Robot Operating System 2 (ROS 2) is a set of software libraries and tools th
 ### Demonstrations
 
 - [adlink_ddsbot](https://github.com/Adlink-ROS/adlink_ddsbot) - The ROS 2.0/1.0 based robots swarm architecture (opensplice DDS). ![adlink_ddsbot](https://img.shields.io/github/stars/Adlink-ROS/adlink_ddsbot.svg)
-- [adlink_neuronbot](https://github.com/Adlink-ROS/adlink_neuronbot) - ROS2/DDS robot pkg for human following and swarm. ![adlink_neuronbot](https://img.shields.io/github/stars/Adlink-ROS/adlink_neuronbot.svg)
-- [turtlebot3](https://github.com/ROBOTIS-GIT/turtlebot3/tree/ros2) - ROS2 based TurtleBot3 demo including Bringup, Teleop and Cartographer. ![turtlebot3](https://img.shields.io/github/stars/ROBOTIS-GIT/turtlebot3.svg)
+- [adlink_neuronbot](https://github.com/Adlink-ROS/adlink_neuronbot) - ROS 2/DDS robot pkg for human following and swarm. ![adlink_neuronbot](https://img.shields.io/github/stars/Adlink-ROS/adlink_neuronbot.svg)
+- [turtlebot3](https://github.com/ROBOTIS-GIT/turtlebot3/tree/ros2) - ROS 2 based TurtleBot3 demo including Bringup, Teleop and Cartographer. ![turtlebot3](https://img.shields.io/github/stars/ROBOTIS-GIT/turtlebot3.svg)
+- [turtlebot3_behavior_demos](https://github.com/sea-bass/turtlebot3_behavior_demos) - ROS 2 based demo that builds on the regular TurtleBot3 demos with Behavior Trees and Docker. ![turtlebot3_behavior_demos](https://img.shields.io/github/stars/sea-bass/turtlebot3_behavior_demos.svg)
 
 ### Examples
 
@@ -41,24 +42,24 @@ The Robot Operating System 2 (ROS 2) is a set of software libraries and tools th
 - [examples/rclcpp](https://github.com/ros2/examples/tree/master/rclcpp) - C++ examples. ![ros2/examples](https://img.shields.io/github/stars/ros2/examples.svg)
 - [examples/rclpy](https://github.com/ros2/examples/tree/master/rclpy) - Python examples. ![ros2/examples](https://img.shields.io/github/stars/ros2/examples.svg)
 - [rcljava_examples](https://github.com/esteve/ros2_java_examples/tree/master/rcljava_examples) - Package containing examples of how to use the rcljava API. ![ros2_java_examples](https://img.shields.io/github/stars/esteve/ros2_java_examples.svg)
-- [ros2_talker_android, ros2_listener_android](https://github.com/esteve/ros2_android_examples) - Example Android apps for the ROS2 Java bindings. ![ros2_android_examples](https://img.shields.io/github/stars/esteve/ros2_android_examples.svg)  
-- [zed-ros2-examples](https://github.com/stereolabs/zed-ros2-examples) - Examples and tutorials use the ZED cameras in the ROS2. ![zed_ros2_example](https://img.shields.io/github/stars/stereolabs/zed-ros2-examples.svg)  
-- [realsense-ros:ros2-branch](https://github.com/IntelRealSense/realsense-ros/tree/ros2) - ROS2 Wrapper for Intel® RealSense™ Devices ![realsense-ros](https://img.shields.io/github/stars/IntelRealSense/realsense-ros.svg)  
+- [ros2_talker_android, ros2_listener_android](https://github.com/esteve/ros2_android_examples) - Example Android apps for the ROS 2 Java bindings. ![ros2_android_examples](https://img.shields.io/github/stars/esteve/ros2_android_examples.svg)  
+- [zed-ros2-examples](https://github.com/stereolabs/zed-ros2-examples) - Examples and tutorials use the ZED cameras in the ROS 2. ![zed_ros2_example](https://img.shields.io/github/stars/stereolabs/zed-ros2-examples.svg)  
+- [realsense-ros:ros2-branch](https://github.com/IntelRealSense/realsense-ros/tree/ros2) - ROS 2 Wrapper for Intel® RealSense™ Devices ![realsense-ros](https://img.shields.io/github/stars/IntelRealSense/realsense-ros.svg)  
 
 ### Benchmarking
 
-- [ros2_benchmarking](https://github.com/piappl/ros2_benchmarking) - Framework for ROS2 benchmarking. ROS2 communication characteristics can be evaluated on several axes, quickly and in an automated way. ![ros2_benchmarking](https://img.shields.io/github/stars/piappl/ros2_benchmarking.svg)
+- [ros2_benchmarking](https://github.com/piappl/ros2_benchmarking) - Framework for ROS 2 benchmarking. ROS 2 communication characteristics can be evaluated on several axes, quickly and in an automated way. ![ros2_benchmarking](https://img.shields.io/github/stars/piappl/ros2_benchmarking.svg)
 - [performance_test](https://github.com/ApexAI/performance_test) - Test performance and latency of various communication means like ROS 2, FastRTPS and Connext DDS Micro. ![performance_test](https://img.shields.io/github/stars/ApexAI/performance_test.svg)
 
 ### Containerization
 
-- [docker-ros2-ospl-ce](https://github.com/Adlink-ROS/docker-ros2-ospl-ce) - A dockerfile to build a ROS2 + OpenSplice CE container. ![docker-ros2-ospl-ce](https://img.shields.io/github/stars/Adlink-ROS/docker-ros2-ospl-ce.svg)
+- [docker-ros2-ospl-ce](https://github.com/Adlink-ROS/docker-ros2-ospl-ce) - A dockerfile to build a ROS 2 + OpenSplice CE container. ![docker-ros2-ospl-ce](https://img.shields.io/github/stars/Adlink-ROS/docker-ros2-ospl-ce.svg)
 - [ros2_java_docker](https://github.com/esteve/ros2_java_docker) - Dockerfiles for building ros2_java with OpenJDK and Android. ![ros2_java_docker](https://img.shields.io/github/stars/esteve/ros2_java_docker.svg)
 - [micro-ROS/docker](https://github.com/micro-ROS/docker) - Docker-related material to setup, configure and develop with micro-ROS hardware.
 - [ros-tooling/cross_compile](https://github.com/ros-tooling/cross_compile) - Cross compile ROS and ROS 2 workspaces to non-native architectures and generate corresponding Docker images.
 - [ros2-docker](https://husarnet.com/blog/ros2-docker) - Connecting ROS 2 nodes running in Docker containers over the internet.
 - [osrf/docker_images](https://github.com/osrf/docker_images) - Dockerfiles of [Official Library on Docker Hub](https://hub.docker.com/_/ros) and [OSRF Organization on Docker Hub](https://hub.docker.com/r/osrf/ros). ![osrf/ros](https://img.shields.io/github/stars/osrf/docker_images.svg)
-- [docker-ros2-desktop-vnc](https://github.com/Tiryoh/docker-ros2-desktop-vnc) - Dockerfiles to provide HTML5 VNC interface to access Ubuntu LXDE + ROS2. ![docker-ros2-desktop-vnc](https://img.shields.io/github/stars/Tiryoh/docker-ros2-desktop-vnc.svg)
+- [docker-ros2-desktop-vnc](https://github.com/Tiryoh/docker-ros2-desktop-vnc) - Dockerfiles to provide HTML5 VNC interface to access Ubuntu LXDE + ROS 2. ![docker-ros2-desktop-vnc](https://img.shields.io/github/stars/Tiryoh/docker-ros2-desktop-vnc.svg)
 - [ros2-lxd](https://ubuntu.com/blog/install-ros-2-humble-in-ubuntu-20-04-or-18-04-using-lxd-containers) - Install ROS 2 Humble in Ubuntu 20.04 or 18.04 using LXD containers.
 
 ### Networking
@@ -68,7 +69,7 @@ The Robot Operating System 2 (ROS 2) is a set of software libraries and tools th
 ### Ecosystem
 
 - [Link ROS](https://www.freedomrobotics.ai/blog/link-ros-cloud-logging-for-ros) - Cloud Logging for ROS 1 and ROS 2.
-- [rosbag2](https://github.com/ros2/rosbag2) - ROS2 native rosbag. ![rosbag2](https://img.shields.io/github/stars/ros2/rosbag2.svg)
+- [rosbag2](https://github.com/ros2/rosbag2) - ROS 2 native rosbag. ![rosbag2](https://img.shields.io/github/stars/ros2/rosbag2.svg)
 - [rviz](https://github.com/ros2/rviz) - 3D Robot Visualizer. ![rviz](https://img.shields.io/github/stars/ros2/rviz.svg)
 - [urdfdom](https://github.com/ros/urdfdom) - URDF (U-Robot Description Format) library which provides core data structures and a simple XML parser ![urdfdom](https://img.shields.io/github/stars/ros/urdfdom.svg)
 - [urdfdom_headers](https://github.com/ros/urdfdom_headers) - Headers for URDF parsers. ![urdfdom_headers](https://img.shields.io/github/stars/ros/urdfdom_headers.svg)
@@ -79,16 +80,16 @@ The Robot Operating System 2 (ROS 2) is a set of software libraries and tools th
 - [LGSVL](https://www.lgsvlsimulator.com/) - Simulation software to accelerate safe autonomous vehicle development.
 - [Unity Robotics Hub](https://github.com/Unity-Technologies/Unity-Robotics-Hub) - This is a central repository for tools, tutorials, resources, and documentation for robotic simulation in Unity.
 - [Foxglove Studio](https://github.com/foxglove/studio) - Integrated visualization and diagnosis tool for robotics. ![foxglove studio](https://img.shields.io/github/stars/foxglove/studio.svg)
-- [ROS2 For Unity](https://github.com/RobotecAI/ros2-for-unity) - An asset package which enables high-performance communication between Unity3D simulations and ROS2 ecosystem. ![ros2-for-unity](https://img.shields.io/github/stars/RobotecAI/ros2-for-unity.svg)
+- [ROS 2 For Unity](https://github.com/RobotecAI/ros2-for-unity) - An asset package which enables high-performance communication between Unity3D simulations and ROS 2 ecosystem. ![ros2-for-unity](https://img.shields.io/github/stars/RobotecAI/ros2-for-unity.svg)
 
 ### Interactivity
 
-- [Jupyter ROS2](https://github.com/zmk5/jupyter-ros2) - Jupyter widget helpers for ROS2.
+- [ROS 2 support for Jupyter notebooks](https://github.com/zmk5/jupyter-ros2) - Jupyter widget helpers for ROS 2.
 
 ### Penetration testing
 
 - [aztarna](https://github.com/aliasrobotics/aztarna) - A footprinting tool for robots.
-- [ros2_fuzzer](https://github.com/aliasrobotics/ros2_fuzzer) - ROS2 Topic & Service Fuzzer.
+- [ros2_fuzzer](https://github.com/aliasrobotics/ros2_fuzzer) - ROS 2 Topic & Service Fuzzer.
 
 ### Application layer
 
@@ -97,39 +98,39 @@ The Robot Operating System 2 (ROS 2) is a set of software libraries and tools th
 - [ros2_control](https://github.com/ros-controls/ros2_control) - `ros2_control` is a proof of concept on how new features within ROS 2 can be elaborated and used in the context of robot control (`ros2_controllers`). ![ros2_control](https://img.shields.io/github/stars/ros-controls/ros2_control.svg)
 - [ros2_controllers](https://github.com/ros-controls/ros2_controllers) - Description of ros_controllers. ![ros2_controllers](https://img.shields.io/github/stars/ros-controls/ros2_controllers.svg)
 - [geometry2](https://github.com/ros2/geometry2) - A set of ROS packages for keeping track of coordinate transforms. ![geometry2](https://img.shields.io/github/stars/ros2/geometry2.svg)
-- [ros2-ORB_SLAM2](https://github.com/alsora/ros2-ORB_SLAM2) - ROS2 node wrapping the ORB_SLAM2 library. ![ros2-ORB_SLAM2](https://img.shields.io/github/stars/alsora/ros2-ORB_SLAM2.svg)
-- [basalt_ros2](https://github.com/berndpfrommer/basalt_ros2) - ROS2 wrapper for Basalt VIO. ![basalt_ros2](https://img.shields.io/github/stars/berndpfrommer/basalt_ros2.svg)
+- [ros2-ORB_SLAM2](https://github.com/alsora/ros2-ORB_SLAM2) - ROS 2 node wrapping the ORB_SLAM2 library. ![ros2-ORB_SLAM2](https://img.shields.io/github/stars/alsora/ros2-ORB_SLAM2.svg)
+- [basalt_ros2](https://github.com/berndpfrommer/basalt_ros2) - ROS 2 wrapper for Basalt VIO. ![basalt_ros2](https://img.shields.io/github/stars/berndpfrommer/basalt_ros2.svg)
 - [cartographer](https://github.com/ros2/cartographer) - Real-time simultaneous localization and mapping (SLAM) in 2D and 3D across multiple platforms and sensor configurations. ![cartographer](https://img.shields.io/github/stars/ros2/cartographer.svg)
-- [slam_gmapping](https://github.com/Project-MANAS/slam_gmapping) - Slam Gmapping for ROS2. ![slam_gmapping](https://img.shields.io/github/stars/Project-MANAS/slam_gmapping.svg)
+- [slam_gmapping](https://github.com/Project-MANAS/slam_gmapping) - Slam Gmapping for ROS 2. ![slam_gmapping](https://img.shields.io/github/stars/Project-MANAS/slam_gmapping.svg)
 - [slam_toolbox](https://github.com/SteveMacenski/slam_toolbox) - Slam Toolbox for lifelong mapping and localization in potentially massive maps with ROS. ![slam_toolbox](https://img.shields.io/github/stars/SteveMacenski/slam_toolbox.svg)
-- [lidarslam_ros2](https://github.com/rsasaki0109/lidarslam_ros2) - ROS2 package of 3D lidar slam using ndt/gicp registration and pose-optimization. ![lidarslam_ros2](https://img.shields.io/github/stars/rsasaki0109/lidarslam_ros2.svg)
-- [li_slam_ros2](https://github.com/rsasaki0109/li_slam_ros2) - ROS2 package of tightly-coupled lidar inertial ndt/gicp slam referenced from LIO-SAM. ![li_slam_ros2](https://img.shields.io/github/stars/rsasaki0109/li_slam_ros2.svg)
-- [octomap_server2](https://github.com/iKrishneel/octomap_server2) - ROS2 stack for mapping with OctoMap. Port of the ROS1 [octomap_mapping](https://github.com/OctoMap/octomap_mapping) package. ![octomap_server2](https://img.shields.io/github/stars/iKrishneel/octomap_server2.svg)
-- [vision_opencv](https://github.com/ros-perception/vision_opencv/tree/ros2) - Packages for interfacing ROS2 with OpenCV. ![vision_opencv](https://img.shields.io/github/stars/ros-perception/vision_opencv.svg)
-- [teleop_twist_keyboard](https://github.com/ros2/teleop_twist_keyboard) - Generic Keyboard Teleop for ROS2. ![teleop_twist_keyboard](https://img.shields.io/github/stars/ros2/teleop_twist_keyboard.svg)
+- [lidarslam_ros2](https://github.com/rsasaki0109/lidarslam_ros2) - ROS 2 package of 3D lidar slam using ndt/gicp registration and pose-optimization. ![lidarslam_ros2](https://img.shields.io/github/stars/rsasaki0109/lidarslam_ros2.svg)
+- [li_slam_ros2](https://github.com/rsasaki0109/li_slam_ros2) - ROS 2 package of tightly-coupled lidar inertial ndt/gicp slam referenced from LIO-SAM. ![li_slam_ros2](https://img.shields.io/github/stars/rsasaki0109/li_slam_ros2.svg)
+- [octomap_server2](https://github.com/iKrishneel/octomap_server2) - ROS 2 stack for mapping with OctoMap. Port of the ROS1 [octomap_mapping](https://github.com/OctoMap/octomap_mapping) package. ![octomap_server2](https://img.shields.io/github/stars/iKrishneel/octomap_server2.svg)
+- [vision_opencv](https://github.com/ros-perception/vision_opencv/tree/ros2) - Packages for interfacing ROS 2 with OpenCV. ![vision_opencv](https://img.shields.io/github/stars/ros-perception/vision_opencv.svg)
+- [teleop_twist_keyboard](https://github.com/ros2/teleop_twist_keyboard) - Generic Keyboard Teleop for ROS 2. ![teleop_twist_keyboard](https://img.shields.io/github/stars/ros2/teleop_twist_keyboard.svg)
 - [teleop_twist_joy](https://github.com/ros2/teleop_twist_joy) - Simple joystick teleop for twist robots. ![teleop_twist_joy](https://img.shields.io/github/stars/ros2/teleop_twist_joy.svg)
-- [navigation](https://github.com/ros-planning/navigation2/) - ROS2 Navigation stack. ![navigation](https://img.shields.io/github/stars/ros-planning/navigation2.svg)
+- [navigation](https://github.com/ros-planning/navigation2/) - ROS 2 Navigation stack. ![navigation](https://img.shields.io/github/stars/ros-planning/navigation2.svg)
 - [diagnostics](https://github.com/bponsler/diagnostics/tree/ros2-devel) - Forked version of the original ROS1 Diagnostics for ROS 2 (currently diagnostics_updater only). ![diagnostics](https://img.shields.io/github/stars/bponsler/diagnostics.svg)
-- [robot_state_publisher](https://github.com/bponsler/robot_state_publisher/tree/publish-robot-model) - Forked version of the original ROS Robot State Publisher with all modifications to compile within a ROS2 Ecosystem. ![robot_state_publisher](https://img.shields.io/github/stars/bponsler/robot_state_publisher.svg)
+- [robot_state_publisher](https://github.com/bponsler/robot_state_publisher/tree/publish-robot-model) - Forked version of the original ROS Robot State Publisher with all modifications to compile within a ROS 2 Ecosystem. ![robot_state_publisher](https://img.shields.io/github/stars/bponsler/robot_state_publisher.svg)
 - [common_interfaces](https://github.com/ros2/common_interfaces) - A set of packages which contain common interface files (.msg and .srv). ![common_interfaces](https://img.shields.io/github/stars/ros2/common_interfaces.svg)
 - [ros2_object_map](https://github.com/intel/ros2_object_map) - "Mark tag of objects on map when SLAM". ![ros2_object_map](https://img.shields.io/github/stars/intel/ros2_object_map.svg)
-- [ros2_object_analytics](https://github.com/intel/ros2_object_analytics) - Object Analytics (OA) is ROS2 wrapper for realtime object detection, localization and tracking. ![ros2_object_analytics](https://img.shields.io/github/stars/intel/ros2_object_analytics.svg)
-- [ros2_intel_movidius_ncs](https://github.com/intel/ros2_intel_movidius_ncs) - ROS2 wrapper for Movidius™ Neural Compute Stick (NCS) Neuronal Compute API. ![ros2_intel_movidius_ncs](https://img.shields.io/github/stars/intel/ros2_intel_movidius_ncs.svg)
+- [ros2_object_analytics](https://github.com/intel/ros2_object_analytics) - Object Analytics (OA) is ROS 2 wrapper for realtime object detection, localization and tracking. ![ros2_object_analytics](https://img.shields.io/github/stars/intel/ros2_object_analytics.svg)
+- [ros2_intel_movidius_ncs](https://github.com/intel/ros2_intel_movidius_ncs) - ROS 2 wrapper for Movidius™ Neural Compute Stick (NCS) Neuronal Compute API. ![ros2_intel_movidius_ncs](https://img.shields.io/github/stars/intel/ros2_intel_movidius_ncs.svg)
 - [ros2_moving_object](https://github.com/intel/ros2_moving_object) - Addressing moving objects based on messages generated by Object Analytics `ros2_object_analytics`. ![ros2_moving_object](https://img.shields.io/github/stars/intel/ros2_moving_object.svg)
-- [ros2_openvino_toolkit](https://github.com/intel/ros2_openvino_toolkit) - ROS2 wrapper for CV API of OpenVINO™ (human vision emulation). ![ros2_openvino_toolkit](https://img.shields.io/github/stars/intel/ros2_openvino_toolkit.svg)
+- [ros2_openvino_toolkit](https://github.com/intel/ros2_openvino_toolkit) - ROS 2 wrapper for CV API of OpenVINO™ (human vision emulation). ![ros2_openvino_toolkit](https://img.shields.io/github/stars/intel/ros2_openvino_toolkit.svg)
 - [ros2_grasp_library](https://github.com/intel/ros2_grasp_library) - Probably a grasp library :). ![ros2_grasp_library](https://img.shields.io/github/stars/intel/ros2_grasp_library.svg)
-- [apriltag_ros](https://github.com/christianrauch/apriltag_ros) - ROS2 node for AprilTag detection. ![apriltag_ros](https://img.shields.io/github/stars/christianrauch/apriltag_ros.svg)
+- [apriltag_ros](https://github.com/christianrauch/apriltag_ros) - ROS 2 node for AprilTag detection. ![apriltag_ros](https://img.shields.io/github/stars/christianrauch/apriltag_ros.svg)
 - [rosbridge_suite](https://github.com/RobotWebTools/rosbridge_suite) - Bridging your browser to the ROS 2.0. ![rosbridge_suite](https://img.shields.io/github/stars/RobotWebTools/rosbridge_suite.svg)
-- [ros2_message_filters](https://github.com/intel/ros2_message_filters) - ros2_message_filters blends various messages based on the conditions that filter needs to met and derives from ROS2 porting of ROS message_filters. ![ros2_message_filters](https://img.shields.io/github/stars/intel/ros2_message_filters.svg)
-- [ros2-tensorflow](https://github.com/alsora/ros2-tensorflow) - ROS2 nodes for computer vision tasks in Tensorflow. ![ros2-tensorflow](https://img.shields.io/github/stars/alsora/ros2-tensorflow.svg)
-- [ros2_pytorch](https://github.com/klintan/ros2_pytorch) - ROS2 nodes for computer vision tasks in PyTorch ![ros2_pytorch](https://img.shields.io/github/stars/klintan/ros2_pytorch.svg).
+- [ros2_message_filters](https://github.com/intel/ros2_message_filters) - ros2_message_filters blends various messages based on the conditions that filter needs to met and derives from ROS 2 porting of ROS message_filters. ![ros2_message_filters](https://img.shields.io/github/stars/intel/ros2_message_filters.svg)
+- [ros2-tensorflow](https://github.com/alsora/ros2-tensorflow) - ROS 2 nodes for computer vision tasks in Tensorflow. ![ros2-tensorflow](https://img.shields.io/github/stars/alsora/ros2-tensorflow.svg)
+- [ros2_pytorch](https://github.com/klintan/ros2_pytorch) - ROS 2 nodes for computer vision tasks in PyTorch ![ros2_pytorch](https://img.shields.io/github/stars/klintan/ros2_pytorch.svg).
 - [ros2_pytorch_cuda](https://github.com/slabban/ros2_pytorch_cuda) - Extension of [ros2_pytorch](https://github.com/klintan/ros2_pytorch) for CUDA devices with containerization.
-- [pid](https://github.com/UTNuclearRoboticsPublic/pid) - A PID controller for ROS2. ![pid](https://img.shields.io/github/stars/UTNuclearRoboticsPublic/pid.svg)
+- [pid](https://github.com/UTNuclearRoboticsPublic/pid) - A PID controller for ROS 2. ![pid](https://img.shields.io/github/stars/UTNuclearRoboticsPublic/pid.svg)
 - [system-modes](https://github.com/micro-ROS/system_modes) - System modes for ROS 2 and micro-ROS.
-- [darknet_ros](https://github.com/leggedrobotics/darknet_ros/tree/ros2) - ROS2 wrapper for deploying Darknet's YOLO Computer Vision model.
+- [darknet_ros](https://github.com/leggedrobotics/darknet_ros/tree/ros2) - ROS 2 wrapper for deploying Darknet's YOLO Computer Vision model.
 - [easy_perception_deployment](https://github.com/ros-industrial/easy_perception_deployment) - Package that accelerates training and deployment of Computer Vision models for industries. ![easy_perception_deployment](https://img.shields.io/github/stars/ros-industrial/easy_perception_deployment.svg)
 - [easy_manipulation_deployment](https://github.com/ros-industrial/easy_manipulation_deployment) - Package that integrates perception elements to establish an end-to-end pick and place task. ![easy_manipulation_deployment](https://img.shields.io/github/stars/ros-industrial/easy_manipulation_deployment.svg)
-- [ros2_pid_library](https://github.com/dottantgal/ros2_pid_library) - A ROS2 Humble fully configurable PID library ![ros2_pid_library](https://img.shields.io/github/stars/dottantgal/ros2_pid_library.svg)
+- [ros2_pid_library](https://github.com/dottantgal/ros2_pid_library) - A ROS 2 Humble fully configurable PID library ![ros2_pid_library](https://img.shields.io/github/stars/dottantgal/ros2_pid_library.svg)
 - [wayp_plan_tools](https://github.com/jkk-research/wayp_plan_tools) - Waypoint and planner tools for ROS 2 with minimal dependencies and an optional Gazebo Fortress simulation. ![wayp_plan_tools](https://img.shields.io/github/stars/jkk-research/wayp_plan_tools.svg)
 
 ### Middleware
@@ -138,16 +139,16 @@ The Robot Operating System 2 (ROS 2) is a set of software libraries and tools th
 - [Micro XRCE-DDS Agent docker](https://hub.docker.com/r/eprosima/micro-xrce-dds-agent/) - Docker image containing the Micro XRCE-DDS Agent.
 - [Micro XRCE-DDS Client](https://github.com/eProsima/Micro-XRCE-DDS-Client) - Micro XRCE-DDS implements a client-server protocol to enable resource-constrained devices (clients) to take part in DDS communications.
 - [micro-ROS-Agent](https://github.com/micro-ROS/micro-ROS-Agent) - ROS 2 package using Micro XRCE-DDS Agent.
-- [Eclipse Zenoh](https://github.com/eclipse-zenoh/zenoh) - [Zenoh](https://zenoh.io) is a scalable and extremely performant protocol that can be used transparently used to interact with [ROS2 applications](https://zenoh.io/blog/2021-04-28-ros2-integration/) as well as for [R2X communication](https://zenoh.io/blog/2021-03-23-discovery/). (https://img.shields.io/github/stars/eclipse-zenoh/zenoh)
-- [Eclipse Zenoh-Plugin-DDS](https://github.com/eclipse-zenoh/zenoh-plugin-dds) - This is a [zenoh](https://zenoh.io) plugin that allows to transparently route ROS2/DDS data over zenoh. This is commonly used for [R2X communication](https://zenoh.io/blog/2021-03-23-discovery/) over Wireless network or across the Internet. (https://img.shields.io/github/stars/eclipse-zenoh/zenoh-plugin-dds)
+- [Eclipse Zenoh](https://github.com/eclipse-zenoh/zenoh) - [Zenoh](https://zenoh.io) is a scalable and extremely performant protocol that can be used transparently used to interact with [ROS 2 applications](https://zenoh.io/blog/2021-04-28-ros2-integration/) as well as for [R2X communication](https://zenoh.io/blog/2021-03-23-discovery/). (https://img.shields.io/github/stars/eclipse-zenoh/zenoh)
+- [Eclipse Zenoh-Plugin-DDS](https://github.com/eclipse-zenoh/zenoh-plugin-dds) - This is a [zenoh](https://zenoh.io) plugin that allows to transparently route ROS 2/DDS data over zenoh. This is commonly used for [R2X communication](https://zenoh.io/blog/2021-03-23-discovery/) over Wireless network or across the Internet. (https://img.shields.io/github/stars/eclipse-zenoh/zenoh-plugin-dds)
 
 ### "System" bindings
 
-- [rclandroid](https://github.com/esteve/ros2_android/tree/master/rclandroid) - Android API for ROS2. ![rclandroid](https://img.shields.io/github/stars/esteve/ros2_android.svg)
-- [rclnodejs](https://github.com/RobotWebTools/rclnodejs) - Node.js version of ROS2.0 client. ![rclnodejs](https://img.shields.io/github/stars/RobotWebTools/rclnodejs.svg)
-- [riot-ros2](https://github.com/astralien3000/riot-ros2) - This project enables ROS2 to run on microcontrollers using the RIOT Operating System. ![riot-ros2](https://img.shields.io/github/stars/astralien3000/riot-ros2.svg)
-- [ROS2-Integration-Service](https://github.com/eProsima/ROS2-Integration-Service) - ROS2 Integration and Routing which provides a complete tool to integrate other technologies with ROS2 easily and enable ROS2 on WAN/Internet.
-- [soss](https://github.com/osrf/soss) - The System Of Systems Synthesizer is used to integrate ROS2 via ROS2-Integration-Service with other (communication) systems.
+- [rclandroid](https://github.com/esteve/ros2_android/tree/master/rclandroid) - Android API for ROS 2. ![rclandroid](https://img.shields.io/github/stars/esteve/ros2_android.svg)
+- [rclnodejs](https://github.com/RobotWebTools/rclnodejs) - Node.js version of ROS 2.0 client. ![rclnodejs](https://img.shields.io/github/stars/RobotWebTools/rclnodejs.svg)
+- [riot-ros2](https://github.com/astralien3000/riot-ros2) - This project enables ROS 2 to run on microcontrollers using the RIOT Operating System. ![riot-ros2](https://img.shields.io/github/stars/astralien3000/riot-ros2.svg)
+- [ROS 2 Integration Service](https://github.com/eProsima/ROS2-Integration-Service) - ROS 2 Integration and Routing which provides a complete tool to integrate other technologies with ROS 2 easily and enable ROS 2 on WAN/Internet.
+- [soss](https://github.com/osrf/soss) - The System Of Systems Synthesizer is used to integrate ROS 2 via ROS 2-Integration-Service with other (communication) systems.
 - [micro_ros_arduino](https://github.com/micro-ROS/micro_ros_arduino) - Integration of micro-ROS into Arduino software platform projects.
 - [micro_ros_zephyr_module](https://github.com/micro-ROS/micro_ros_zephyr_module) - Integration of micro-ROS in Zeyphr OS based projects.
 
@@ -155,36 +156,36 @@ The Robot Operating System 2 (ROS 2) is a set of software libraries and tools th
 
 - [Autoware.IO](https://www.autoware.io/) - Autoware.IO provides a heterogeneous hardware reference platform and enables the integration of member company's solutions onto platforms which support the Autoware.Auto and Autoware.AI software stack.
 - [ros2_xmlrpc_interface](https://github.com/aarushsesto/ros2_xmlrpc_interface) - ros2 interface package with xmlrpc, to communicate with a Sesto server using Sesto API. ![ros2_xmlrpc](https://img.shields.io/github/stars/aarushsesto/ros2_xmlrpc_interface.svg)
-- [cozmo_driver_ros2](https://github.com/FurqanHabibi/cozmo_driver_ros2) - Unofficial Anki Cozmo node for ROS2. ![cozmo_driver_ros2](https://img.shields.io/github/stars/FurqanHabibi/cozmo_driver_ros2.svg)
-- [sphero_ros2](https://github.com/athackst/sphero_ros2) - ROS2 sphero driver. ![sphero_ros2](https://img.shields.io/github/stars/athackst/sphero_ros2.svg)
-- [flock2](https://github.com/clydemcqueen/flock2) - ROS2 driver for DJI Tello drones. ![flock2](https://img.shields.io/github/stars/clydemcqueen/flock2.svg)
-- [ros2_raspicam_node](https://github.com/Misterblue/ros2_raspicam_node) - ROS2 node for Raspberry Pi camera. ![ros2_raspicam_node](https://img.shields.io/github/stars/Misterblue/ros2_raspicam_node.svg)
-- [joystick_drivers](https://github.com/ros2/joystick_drivers) - ROS2 drivers for joysticks. ![joystick_drivers](https://img.shields.io/github/stars/ros2/joystick_drivers.svg)
+- [cozmo_driver_ros2](https://github.com/FurqanHabibi/cozmo_driver_ros2) - Unofficial Anki Cozmo node for ROS 2. ![cozmo_driver_ros2](https://img.shields.io/github/stars/FurqanHabibi/cozmo_driver_ros2.svg)
+- [sphero_ros2](https://github.com/athackst/sphero_ros2) - ROS 2 sphero driver. ![sphero_ros2](https://img.shields.io/github/stars/athackst/sphero_ros2.svg)
+- [flock2](https://github.com/clydemcqueen/flock2) - ROS 2 driver for DJI Tello drones. ![flock2](https://img.shields.io/github/stars/clydemcqueen/flock2.svg)
+- [ros2_raspicam_node](https://github.com/Misterblue/ros2_raspicam_node) - ROS 2 node for Raspberry Pi camera. ![ros2_raspicam_node](https://img.shields.io/github/stars/Misterblue/ros2_raspicam_node.svg)
+- [joystick_drivers](https://github.com/ros2/joystick_drivers) - ROS 2 drivers for joysticks. ![joystick_drivers](https://img.shields.io/github/stars/ros2/joystick_drivers.svg)
 - [joystick_drivers_from_scratch](https://github.com/ros2/joystick_drivers_from_scratch) - Joystick driver packages for ROS 2. ![joystick_drivers_from_scratch](https://img.shields.io/github/stars/ros2/joystick_drivers_from_scratch.svg)
-- [joystick_ros2](https://github.com/FurqanHabibi/joystick_ros2) - Joystick driver for ROS2, support all platforms: Linux, macOS, Windows. ![joystick_ros2](https://img.shields.io/github/stars/FurqanHabibi/joystick_ros2.svg)
-- [ros2_teleop_keyboard](https://github.com/rohbotics/ros2_teleop_keyboard) - Teleop Twist Keyboard for ROS2. ![ros2_teleop_keyboard](https://img.shields.io/github/stars/rohbotics/ros2_teleop_keyboard.svg)
-- [ros_astra_camera](https://github.com/ros2/ros_astra_camera) - ROS2 wrapper for Astra camera. ![ros_astra_camera](https://img.shields.io/github/stars/ros2/ros_astra_camera.svg)
-- [ros2_usb_camera](https://github.com/klintan/ros2_usb_camera) - ROS2 General USB camera driver. ![ros_astra_camera](https://img.shields.io/github/stars/klintan/ros2_usb_camera.svg)
-- [ros2_android_drivers](https://github.com/esteve/ros2_android_drivers) - Collection of ROS2 drivers for several Android sensors. ![ros2_android_drivers](https://img.shields.io/github/stars/esteve/ros2_android_drivers.svg)
-- [ros2_intel_realsense](https://github.com/intel/ros2_intel_realsense) - ROS2 Wrapper for Intel® RealSense™ Devices. ![ros2_intel_realsense](https://img.shields.io/github/stars/intel/ros2_intel_realsense.svg)
-- [raspicam2_node](https://github.com/christianrauch/raspicam2_node) - ROS2 node for camera module of Raspberry Pi. ![raspicam2_node](https://img.shields.io/github/stars/christianrauch/raspicam2_node.svg)
-- [ros2_track_imu](https://github.com/klintan/ros2_track_imu) - ROS2 node for TrackIMU IMU sensor![ros2_track_imu](https://img.shields.io/github/stars/klintan/ros2_track_imu.svg).
+- [joystick_ros2](https://github.com/FurqanHabibi/joystick_ros2) - Joystick driver for ROS 2, support all platforms: Linux, macOS, Windows. ![joystick_ros2](https://img.shields.io/github/stars/FurqanHabibi/joystick_ros2.svg)
+- [ros2_teleop_keyboard](https://github.com/rohbotics/ros2_teleop_keyboard) - Teleop Twist Keyboard for ROS 2. ![ros2_teleop_keyboard](https://img.shields.io/github/stars/rohbotics/ros2_teleop_keyboard.svg)
+- [ros_astra_camera](https://github.com/ros2/ros_astra_camera) - ROS 2 wrapper for Astra camera. ![ros_astra_camera](https://img.shields.io/github/stars/ros2/ros_astra_camera.svg)
+- [ros2_usb_camera](https://github.com/klintan/ros2_usb_camera) - ROS 2 General USB camera driver. ![ros_astra_camera](https://img.shields.io/github/stars/klintan/ros2_usb_camera.svg)
+- [ros2_android_drivers](https://github.com/esteve/ros2_android_drivers) - Collection of ROS 2 drivers for several Android sensors. ![ros2_android_drivers](https://img.shields.io/github/stars/esteve/ros2_android_drivers.svg)
+- [ros2_intel_realsense](https://github.com/intel/ros2_intel_realsense) - ROS 2 Wrapper for Intel® RealSense™ Devices. ![ros2_intel_realsense](https://img.shields.io/github/stars/intel/ros2_intel_realsense.svg)
+- [raspicam2_node](https://github.com/christianrauch/raspicam2_node) - ROS 2 node for camera module of Raspberry Pi. ![raspicam2_node](https://img.shields.io/github/stars/christianrauch/raspicam2_node.svg)
+- [ros2_track_imu](https://github.com/klintan/ros2_track_imu) - ROS 2 node for TrackIMU IMU sensor![ros2_track_imu](https://img.shields.io/github/stars/klintan/ros2_track_imu.svg).
 - [HRIM](https://github.com/AcutronicRobotics/HRIM) - A standard interface for robot modules.
-- [FIROS2](https://github.com/eProsima/FIROS2) - ROS2 integrable tool focused in the intercommunication between ROS2 and FIWARE. ![FIROS2](https://img.shields.io/github/stars/eProsima/FIROS2.svg)
-- [lino2_upper](https://github.com/linorobot2/lino2_upper) - Linorobot on ROS2. ![lino2_upper](https://img.shields.io/github/stars/linorobot2/lino2_upper.svg)
-- [RysROS2](https://github.com/GroupOfRobots/RysROS2) - ROS2 software stack for MiniRys robots. ![RysROS2](https://img.shields.io/github/stars/GroupOfRobots/RysROS2.svg)
-- [px4_to_ros](https://github.com/eProsima/px4_to_ros) - ROS2/ROS packages for communicate PX4 with ROS. ![px4_to_ros](https://img.shields.io/github/stars/eProsima/px4_to_ros.svg)
-- [multiwii_ros2](https://github.com/christianrauch/multiwii_ros2) - ROS2 Node for MultiWii and Cleanflight flight controllers. ![multiwii_ros2](https://img.shields.io/github/stars/christianrauch/multiwii_ros2.svg)
-- [ydlidar_ros2](https://github.com/Adlink-ROS/ydlidar_ros2) - ROS2 wrapper for ydlidar. ![ydlidar_ros2](https://img.shields.io/github/stars/Adlink-ROS/ydlidar_ros2.svg)
+- [FIROS2](https://github.com/eProsima/FIROS2) - ROS 2 integrable tool focused in the intercommunication between ROS 2 and FIWARE. ![FIROS2](https://img.shields.io/github/stars/eProsima/FIROS2.svg)
+- [lino2_upper](https://github.com/linorobot2/lino2_upper) - Linorobot on ROS 2. ![lino2_upper](https://img.shields.io/github/stars/linorobot2/lino2_upper.svg)
+- [RysROS2](https://github.com/GroupOfRobots/RysROS2) - ROS 2 software stack for MiniRys robots. ![RysROS2](https://img.shields.io/github/stars/GroupOfRobots/RysROS2.svg)
+- [px4_to_ros](https://github.com/eProsima/px4_to_ros) - ROS 2/ROS packages for communicate PX4 with ROS. ![px4_to_ros](https://img.shields.io/github/stars/eProsima/px4_to_ros.svg)
+- [multiwii_ros2](https://github.com/christianrauch/multiwii_ros2) - ROS 2 Node for MultiWii and Cleanflight flight controllers. ![multiwii_ros2](https://img.shields.io/github/stars/christianrauch/multiwii_ros2.svg)
+- [ydlidar_ros2](https://github.com/Adlink-ROS/ydlidar_ros2) - ROS 2 wrapper for ydlidar. ![ydlidar_ros2](https://img.shields.io/github/stars/Adlink-ROS/ydlidar_ros2.svg)
 - [zed-ros2-wrapper](https://github.com/stereolabs/zed-ros2-wrapper) - ROS 2 wrapper beta for the ZED SDK.
-- [ros2_denso_radar](https://github.com/klintan/ros2_denso_radar) - Toyota/Lexus 2015-2017 Denso Radar driver for ROS2.
-- [sick_scan2](https://github.com/SICKAG/sick_scan2) - ROS2 driver for the SICK TiM series of laser scanners (TiM551/TiM561/TiM571).
-- [ros2_ouster_drivers](https://github.com/SteveMacenski/ros2_ouster_drivers) - ROS2 Drivers for the Ouster OS-1 Lidars. ![ros2_ouster_drivers](https://img.shields.io/github/stars/SteveMacenski/ros2_ouster_drivers)
+- [ros2_denso_radar](https://github.com/klintan/ros2_denso_radar) - Toyota/Lexus 2015-2017 Denso Radar driver for ROS 2.
+- [sick_scan2](https://github.com/SICKAG/sick_scan2) - ROS 2 driver for the SICK TiM series of laser scanners (TiM551/TiM561/TiM571).
+- [ros2_ouster_drivers](https://github.com/SteveMacenski/ros2_ouster_drivers) - ROS 2 Drivers for the Ouster OS-1 Lidars. ![ros2_ouster_drivers](https://img.shields.io/github/stars/SteveMacenski/ros2_ouster_drivers)
 - [micro-ROS/hardware](https://github.com/micro-ROS/hardware) - Information and documentation about the hardware platforms used and supported in the micro-ROS project.
-- [Blickfeld Cube 1 & Cube Range](https://docs.blickfeld.com/cube/latest/external/ros/driver-v2/README.html) - ROS2 drivers for Blickfeld Cube 1 & Cube Range.
-- [Universal Robots](https://github.com/UniversalRobots/Universal_Robots_ROS2_Driver) - ROS2 drivers for UR CB3 and e-Series.
+- [Blickfeld Cube 1 & Cube Range](https://docs.blickfeld.com/cube/latest/external/ros/driver-v2/README.html) - ROS 2 drivers for Blickfeld Cube 1 & Cube Range.
+- [Universal Robots](https://github.com/UniversalRobots/Universal_Robots_ROS2_Driver) - ROS 2 drivers for UR CB3 and e-Series.
 - [odrive_ros2_control](https://github.com/Factor-Robotics/odrive_ros2_control) - ODrive driver for ros2_control.
-- [duro_gps_driver](https://github.com/szenergy/duro_gps_driver) - ROS/ROS2 driver for SwiftNav Duro Inertial GPS / GNSS receivers ![duro_gps_driver](https://img.shields.io/github/stars/szenergy/duro_gps_driver.svg)
+- [duro_gps_driver](https://github.com/szenergy/duro_gps_driver) - ROS/ROS 2 driver for SwiftNav Duro Inertial GPS / GNSS receivers ![duro_gps_driver](https://img.shields.io/github/stars/szenergy/duro_gps_driver.svg)
 
 ### Client libraries
 
@@ -196,9 +197,9 @@ The Robot Operating System 2 (ROS 2) is a set of software libraries and tools th
 - [rclnodejs](https://github.com/RobotWebTools/rclnodejs) - ROS Client Library for Node.js. ![rclnodejs](https://img.shields.io/github/stars/RobotWebTools/rclnodejs.svg)
 - [rclobjc](https://github.com/esteve/ros2_objc) - ROS Client Library for Objective C (for iOS). ![rclobjc](https://img.shields.io/github/stars/esteve/ros2_objc.svg)
 - [rclc](https://github.com/ros2/rclc) - ROS Client Library for C. ![rclc](https://img.shields.io/github/stars/ros2/rclc.svg)
-- [ros2_rust](https://github.com/ros2-rust/ros2_rust) - Rust bindings for ROS2. ![ros2_rust](https://img.shields.io/github/stars/esteve/ros2_rust.svg)
-- [ros2_dotnet](https://github.com/esteve/ros2_dotnet) - .NET bindings for ROS2. ![ros2_dotnet](https://img.shields.io/github/stars/esteve/ros2_dotnet.svg)
-- [ros2cs](https://github.com/RobotecAI/ros2cs) - an alternative to ros2_dotnet, a ROS2 C# interface supporting full range of messages and modern ROS2. ![ros2cs](https://img.shields.io/github/stars/RobotecAI/ros2cs.svg)
+- [ros2_rust](https://github.com/ros2-rust/ros2_rust) - Rust bindings for ROS 2. ![ros2_rust](https://img.shields.io/github/stars/esteve/ros2_rust.svg)
+- [ros2_dotnet](https://github.com/esteve/ros2_dotnet) - .NET bindings for ROS 2. ![ros2_dotnet](https://img.shields.io/github/stars/esteve/ros2_dotnet.svg)
+- [ros2cs](https://github.com/RobotecAI/ros2cs) - an alternative to ros2_dotnet, a ROS 2 C# interface supporting full range of messages and modern ROS 2. ![ros2cs](https://img.shields.io/github/stars/RobotecAI/ros2cs.svg)
 
 ### Client libraries common
 
@@ -222,13 +223,13 @@ The Robot Operating System 2 (ROS 2) is a set of software libraries and tools th
 - [rmw_fastrtps_cpp](https://github.com/ros2/rmw_fastrtps/tree/master/rmw_fastrtps_cpp) - Implement the ROS middleware interface using eProsima FastRTPS static code generation in C++. ![rmw_fastrtps_cpp](https://img.shields.io/github/stars/ros2/rmw_fastrtps.svg)
 - [rmw_dps](https://github.com/ros2/rmw_dps) - Implementation of the ROS Middleware (rmw) Interface using Intel's Distributed Publish & Subscribe. ![rmw_dps](https://img.shields.io/github/stars/ros2/rmw_dps.svg)
 - [rmw_opensplice_cpp](https://github.com/ros2/rmw_opensplice/tree/master/rmw_opensplice_cpp) - Implement the ROS middleware interface using PrismTech OpenSplice static code generation in C++. ![rmw_opensplice_cpp](https://img.shields.io/github/stars/ros2/rmw_opensplice.svg)
-- [rmw_coredx](https://github.com/tocinc/rmw_coredx) - CoreDX DDS integration layer for ROS2. ![tocinc/rmw_coredx](https://img.shields.io/github/stars/tocinc/rmw_coredx.svg)
+- [rmw_coredx](https://github.com/tocinc/rmw_coredx) - CoreDX DDS integration layer for ROS 2. ![tocinc/rmw_coredx](https://img.shields.io/github/stars/tocinc/rmw_coredx.svg)
 - [rmw_freertps](https://github.com/ros2/rmw_freertps) - RMW implementation using freertps. ![tocinc/rmw_coredx](https://img.shields.io/github/stars/ros2/rmw_freertps.svg)
 - [rmw_zenoh](https://github.com/atolab/rmw_zenoh) - RMW implementation using Eclipse zenoh: Zero Overhead Pub/sub, Store/Query and Compute. ![atolab/rmw_zenoh](https://img.shields.io/github/stars/atolab/rmw_zenoh.svg)
 - [rcutils](https://github.com/ros2/rcutils) - Common C functions and data structures used in ROS 2. ![rmw](https://img.shields.io/github/stars/ros2/rcutils.svg)
 - [freertps](https://github.com/ros2/freertps) - a free, portable, minimalist, work-in-progress RTPS implementation. ![rmw](https://img.shields.io/github/stars/ros2/freertps.svg)
-- [rmw_cyclonedds](https://github.com/atolab/rmw_cyclonedds) - ROS2 RMW layer for Eclipse Cyclone DDS. ![rmw_cyclonedds](https://img.shields.io/github/stars/atolab/rmw_cyclonedds.svg)
-- [rmw_zenoh](https://github.com/atolab/rmw_zenoh) - ROS2 RMW layer for [zenoh](https://zenoh.io).
+- [rmw_cyclonedds](https://github.com/atolab/rmw_cyclonedds) - ROS 2 RMW layer for Eclipse Cyclone DDS. ![rmw_cyclonedds](https://img.shields.io/github/stars/atolab/rmw_cyclonedds.svg)
+- [rmw_zenoh](https://github.com/atolab/rmw_zenoh) - ROS 2 RMW layer for [zenoh](https://zenoh.io).
 - [rmw_iceoryx](https://github.com/ros2/rmw_iceoryx) - Enables usage of the inter-process-communication middleware [Eclipse iceoryx](https://iceoryx.io).
 
 ### DDS communication mechanism implementations
@@ -245,7 +246,7 @@ The Robot Operating System 2 (ROS 2) is a set of software libraries and tools th
 
 - [meta-ros2](https://github.com/erlerobot/meta-ros2) - ROS 2 Layer for OpenEmbedded Linux. ![meta-ros2](https://img.shields.io/github/stars/erlerobot/meta-ros2.svg)
 
-### Build system (ROS2)
+### Build system (ROS 2)
 
 - [ci](https://github.com/ros2/ci) - ROS 2 CI Infrastructure. ![ci](https://img.shields.io/github/stars/ros2/ci.svg)
 - [ament_cmake_export_jars](https://github.com/esteve/ros2_java/tree/master/ament_cmake_export_jars) - The ability to export Java archives to downstream packages in the ament buildsystem in CMake. ![ros2_java](https://img.shields.io/github/stars/esteve/ros2_java.svg)
@@ -258,7 +259,7 @@ The Robot Operating System 2 (ROS 2) is a set of software libraries and tools th
 - [RIOT](https://github.com/RIOT-OS/RIOT) - RIOT is a real-time multi-threading operating system (...,) real-time capabilities, small memory footprint, (...) API offers partial POSIX compliance.
 - [eMCOS](https://www.esol.com/embedded/emcos.html) - POSIX-compliant real-time OS for many-core processors expected to support AUTOSAR in the future.
 - [PYNQ](http://www.pynq.io/) - Python-based rapid prototyping of high performance ML applications running on XILINX FPGAs.
-- [ReconROS](https://github.com/Lien182/ReconROS) - Framework for ROS2 FPGA-based hardware acceleration. Based on [ReconOS](https://github.com/reconos/reconos). ![ReconROS](https://img.shields.io/github/stars/Lien182/ReconROS.svg)
+- [ReconROS](https://github.com/Lien182/ReconROS) - Framework for ROS 2 FPGA-based hardware acceleration. Based on [ReconOS](https://github.com/reconos/reconos). ![ReconROS](https://img.shields.io/github/stars/Lien182/ReconROS.svg)
 - [Ubuntu Core](https://ubuntu.com/core) - Build secure IoT devices with Ubuntu Core.
 - [Ubuntu Server](https://ubuntu.com/server)
 - [VxWorks](https://github.com/Wind-River/vxworks7-ros2-build) - The Secure, Safe, Reliable, and Certifiable real-time OS for Critical Infrastructure
@@ -274,7 +275,7 @@ The Robot Operating System 2 (ROS 2) is a set of software libraries and tools th
 
 ## Documentation
 
-- [ROS Index](https://index.ros.org/) - Future single entry point into ROS2 documentation (BETA).
+- [ROS Index](https://index.ros.org/) - Future single entry point into ROS 2 documentation (BETA).
   - [Foxy packages](https://index.ros.org/packages/page/1/time/#foxy).
   - [Dashing packages](https://index.ros.org/packages/page/1/time/#dashing).
   - [Crystal packages](https://index.ros.org/packages/page/1/time/#crystal).
@@ -282,15 +283,15 @@ The Robot Operating System 2 (ROS 2) is a set of software libraries and tools th
   - [Ardent packages](https://index.ros.org/packages/page/1/time/#ardent).
 - [ROS 2 Design](http://design.ros2.org/) - Articles which inform and guide the ROS 2.0 design efforts.
 - [ROS 2 Docs (Overview)](http://docs.ros2.org/beta2/index.html#) - Details about ROS 2 internal design and organisation.
-- [ROS 2 Tutorials](https://github.com/ros2/ros2/wiki/Tutorials) - Study about ROS2 concept, libraries, build, and development with demoes/examples.
+- [ROS 2 Tutorials](https://github.com/ros2/ros2/wiki/Tutorials) - Study about ROS 2 concept, libraries, build, and development with demoes/examples.
 - [ROS 2 Wiki](https://github.com/ros2/ros2/wiki) - Entry point to find all kind of information about ROS 2.
 - [ROS 2 Distribution (rosdistro)](https://github.com/ros2/rosdistro) - Info about distributions and the included packages.
-- [ROS2 package status](http://repo.ros2.org/).
+- [ROS 2 package status](http://repo.ros2.org/).
   - [Bouncy package status](http://repo.ros2.org/status_page/ros_bouncy_default.html) - Status of ROS Bouncy packages.
-  - [Ardent package status](http://repo.ros2.org/status_page/ros_ardent_default.html) - Status of ROS2 Ardent packages.
-- [ROS2 Buildfarm](http://build.ros2.org) - Build information (Jenkins build farm).
-- [ROS2 CLI cheats sheet](https://github.com/artivis/ros2_cheats_sheet/blob/master/cli/cli_cheats_sheet.pdf) - A cheats sheet for ROS 2 Command Line Interface.
-- [ROS2 Quality Assurance Guidelines](https://github.com/ros-industrial/ros2_quality_assurance_guidelines) - A collection of guidelines and tutorials for improving package quality, following REP-2004 quality standards and integrating Continuous Integration.
+  - [Ardent package status](http://repo.ros2.org/status_page/ros_ardent_default.html) - Status of ROS 2 Ardent packages.
+- [ROS 2 Buildfarm](http://build.ros2.org) - Build information (Jenkins build farm).
+- [ROS 2 CLI cheats sheet](https://github.com/artivis/ros2_cheats_sheet/blob/master/cli/cli_cheats_sheet.pdf) - A cheats sheet for ROS 2 Command Line Interface.
+- [ROS 2 Quality Assurance Guidelines](https://github.com/ros-industrial/ros2_quality_assurance_guidelines) - A collection of guidelines and tutorials for improving package quality, following REP-2004 quality standards and integrating Continuous Integration.
 
 
 ## Community
@@ -303,16 +304,16 @@ The Robot Operating System 2 (ROS 2) is a set of software libraries and tools th
 
 ## Books
 
-- [A Concise Introduction to Robot Programming with ROS2](https://github.com/fmrico/book_ros2)
+- [A Concise Introduction to Robot Programming with ROS 2](https://github.com/fmrico/book_ros2)
 
 ## Courses
 
-- [ROS2 How To: Discover Next Generation ROS (Udemy)](https://www.udemy.com/ros2-how-to/)
+- [ROS 2 How To: Discover Next Generation ROS (Udemy)](https://www.udemy.com/ros2-how-to/)
 - [ROS 2 New Features: Skill-up with the latest features of Robot Operating System 2  (Udemy)](https://www.udemy.com/course/ros-2-new-features/)
 - [ROS 2 Basics in 5 Days (C++) - Learn how to start working with ROS 2 (The Construct)](http://www.theconstructsim.com/construct-learn-develop-robots-using-ros/robotigniteacademy_learnros/ros-courses-library/ros2-basics-course/)
-- ROS2 Autoware Course
+- ROS 2 Autoware Course
   - [Autoware Course Lecture 1: Development Environment](https://www.youtube.com/watch?v=XTmlhvlmcf8)
-  - [Autoware Course Lecture 2: ROS2 101](https://www.youtube.com/watch?v=FTA4Ia2vLS8)
+  - [Autoware Course Lecture 2: ROS 2 101](https://www.youtube.com/watch?v=FTA4Ia2vLS8)
   - [Autoware Course Lecture 3: ROS 2 Tooling - Develop Like a Pro](https://www.youtube.com/watch?v=wcibIqiRb04)
   - [Autoware Course Lecture 4: Platform HW, RTOS and DDS](https://www.youtube.com/watch?v=IyycN6ldsIs)
   - [Autoware Course Lecture 5: Autonomous Driving Stacks](https://www.youtube.com/watch?v=nTI4fnn2tuU)
@@ -323,7 +324,7 @@ The Robot Operating System 2 (ROS 2) is a set of software libraries and tools th
   - [Autoware Course Lecture 10: State Estimation for Localization](https://www.youtube.com/watch?v=g2YURb-d9vY)
   - [Autoware Course Lecture 11: LGSVL Simulator](https://www.youtube.com/watch?v=OcB6FUbjZXo)
   - [Autoware Course Lecture 12: Motion Control](https://www.youtube.com/watch?v=fQJpAVRQBrI)
-- [ROS2-Industrial training material](https://github.com/ros-industrial/ros2_i_training)
+- [ROS-Industrial ROS 2 training material](https://github.com/ros-industrial/ros2_i_training)
 
 ## Presentations
 
@@ -400,35 +401,35 @@ The Robot Operating System 2 (ROS 2) is a set of software libraries and tools th
 - Launch for ROS 2
 - Getting involved in ROS 2 development
 - Planning to Plan: Plugins All The Way Down
-- Leveraging DDS Security in ROS2
-- Arm DDS Security library: Adding secure security to ROS2
-- ROS2: Supercharging the Jaguar4x4
+- Leveraging DDS Security in ROS 2
+- Arm DDS Security library: Adding secure security to ROS 2
+- ROS 2: Supercharging the Jaguar4x4
 - Performance Test - A Tool for Communication Middleware Performance Measuring
-- ROS2 for Android, iOS and Universal Windows Platform: a demonstration of ROS2’s portability, and cross-platform and cross-language capabilities
-- Integrating ROS and ROS2 on mixed-critical robotic systems based on embedded heterogeneous platforms
+- ROS 2 for Android, iOS and Universal Windows Platform: a demonstration of ROS2’s portability, and cross-platform and cross-language capabilities
+- Integrating ROS and ROS 2 on mixed-critical robotic systems based on embedded heterogeneous platforms
 - Towards ROS 2 microcontroller meta cross-compilation
 - Node.js Client & Web Bridge Ready for ROS 2.0
-- RCLAda: the Ada client library for ROS2
+- RCLAda: the Ada client library for ROS 2
 
 ### Embedded World Conference 2018
 
-- ADLink Neuron: An industrial oriented ROS2-based platform [Slides](https://raw.githubusercontent.com/Adlink-ROS/adlink_neuronbot/master/document/ADLINK_NeuronBot_20180313.pdf) [Video](https://www.youtube.com/watch?v=RC6XvTvTs9Y&feature=youtu.be) [Video](https://www.youtube.com/watch?v=qA4_Hmnd_tM&feature=youtu.be)
+- ADLink Neuron: An industrial oriented ROS 2-based platform [Slides](https://raw.githubusercontent.com/Adlink-ROS/adlink_neuronbot/master/document/ADLINK_NeuronBot_20180313.pdf) [Video](https://www.youtube.com/watch?v=RC6XvTvTs9Y&feature=youtu.be) [Video](https://www.youtube.com/watch?v=qA4_Hmnd_tM&feature=youtu.be)
 
 ### 2018
 
-- ROS2 - The Robot Operating System Version 2 (TNG Technology Consulting GmbH) [Slides](https://www.tngtech.com/fileadmin/Public/Images/BigTechday/BTD11/Folien/ROS2.pdf) [Video](https://www.youtube.com/watch?v=6Vzi0Grrlp8)
+- ROS 2 - The Robot Operating System Version 2 (TNG Technology Consulting GmbH) [Slides](https://www.tngtech.com/fileadmin/Public/Images/BigTechday/BTD11/Folien/ROS2.pdf) [Video](https://www.youtube.com/watch?v=6Vzi0Grrlp8)
 
 ### ROS Industrial Conference 2017
 
 - micro Robot Operating System: ROS for highly resource-constrained devices [Slides](https://static1.squarespace.com/static/51df34b1e4b08840dcfd2841/t/5a3bb6d524a6947d9d0cbc68/1513862873907/07_Losa.pdf)
-- ROS2 - it's coming [Slides](https://static1.squarespace.com/static/51df34b1e4b08840dcfd2841/t/5a3bb787e4966b606fe227d7/1513863070599/11_Thomas.pdf)
+- ROS 2 - it's coming [Slides](https://static1.squarespace.com/static/51df34b1e4b08840dcfd2841/t/5a3bb787e4966b606fe227d7/1513863070599/11_Thomas.pdf)
 
 ### ROSCon 2017
 
 - The ROS 2 vision for advancing the future of robotics development [Slides](https://roscon.ros.org/2017/presentations/ROSCon%202017%20ROS2%20Vision.pdf) [Video](https://vimeo.com/236161417)
-- ROS2 Fine Tuning [Slides](https://roscon.ros.org/2017/presentations/ROSCon%202017%20ROS2%20Fine%20Tuning.pdf) [Video](https://vimeo.com/236168591)
-- SLAM on Turtlebot2 using ROS2 [Slides](https://roscon.ros.org/2017/presentations/ROSCon%202017%20ROS2%20SLAM.pdf) [Video](https://vimeo.com/236172294)
-- Using ROS2 for Vision-Based Manipulation with Industrial Robots [Slides](https://roscon.ros.org/2017/presentations/ROSCon%202017%20ROS2%20Vision-Based%20Manipulation.pdf) [Video](https://vimeo.com/236182180)
+- ROS 2 Fine Tuning [Slides](https://roscon.ros.org/2017/presentations/ROSCon%202017%20ROS2%20Fine%20Tuning.pdf) [Video](https://vimeo.com/236168591)
+- SLAM on Turtlebot2 using ROS 2 [Slides](https://roscon.ros.org/2017/presentations/ROSCon%202017%20ROS2%20SLAM.pdf) [Video](https://vimeo.com/236172294)
+- Using ROS 2 for Vision-Based Manipulation with Industrial Robots [Slides](https://roscon.ros.org/2017/presentations/ROSCon%202017%20ROS2%20Vision-Based%20Manipulation.pdf) [Video](https://vimeo.com/236182180)
 
 ### 2017
 
@@ -441,7 +442,7 @@ The Robot Operating System 2 (ROS 2) is a set of software libraries and tools th
 ### ROSCon 2016
 
 - ROS 2 Update [Slides](https://roscon.ros.org/2016/presentations/ROSCon%202016%20-%20ROS%202%20Update.pdf) [Video](https://vimeo.com/187696091)
-- Evaluating the resilience of ROS2 communication layer [Slides](https://roscon.ros.org/2016/presentations/rafal.kozik-ros2evaluation.pdf) [Video](https://vimeo.com/187705229)
+- Evaluating the resilience of ROS 2 communication layer [Slides](https://roscon.ros.org/2016/presentations/rafal.kozik-ros2evaluation.pdf) [Video](https://vimeo.com/187705229)
 
 ### ROSCon 2015
 
@@ -451,7 +452,7 @@ The Robot Operating System 2 (ROS 2) is a set of software libraries and tools th
 
 ## Papers
 
-- [Distributed and Synchronized Setup towards Real-Time Robotic Control using ROS2 on Linux](https://www.semanticscholar.org/paper/Distributed-and-Synchronized-Setup-towards-Robotic-Puck-Keller/10c4eeef9da0c5aa87664037f18a0ab746853757)
+- [Distributed and Synchronized Setup towards Real-Time Robotic Control using ROS 2 on Linux](https://www.semanticscholar.org/paper/Distributed-and-Synchronized-Setup-towards-Robotic-Puck-Keller/10c4eeef9da0c5aa87664037f18a0ab746853757)
 - [Time Synchronization in modular collaborative robots](https://arxiv.org/pdf/1809.07295.pdf)
 - [Open Problems in Robotic Anomaly Detection](https://arxiv.org/pdf/1809.03565.pdf)
 - [Towards a distributed and real-time framework for robots: Evaluation of ROS 2.0 communications for real-time robotic applications](https://arxiv.org/pdf/1809.02595.pdf)
@@ -490,7 +491,7 @@ DDS Security.
 - [Bosch](https://github.com/boschresearch) - Robotics Team of Bosch Research.
 - [Canonical](https://canonical.com/) - The company behind Ubuntu.
 - [Eprosima](https://www.eprosima.com/) - "The middleware experts".
-- [Ericsson Research](https://discourse.ros.org/t/transport-priority-qos-policy-to-solve-ip-flow-ambiguity-while-requesting-5g-network-qos/15332) - Connect ROS2 applications to 5G networks for M2M communication.
+- [Ericsson Research](https://discourse.ros.org/t/transport-priority-qos-policy-to-solve-ip-flow-ambiguity-while-requesting-5g-network-qos/15332) - Connect ROS 2 applications to 5G networks for M2M communication.
 - [FARobot](https://www.farobottech.com/) - Swarm Robot System, a ROS 2/DDS based Fleet Management System.
 - [Fraunhofer Institute for Manufacturing Engineering and Automation IPA](https://www.ipa.fraunhofer.de/en/expertise/robot-and-assistive-systems.html) - Robot and assistive systems.
 - [GESTALT ROBOTICS](https://www.gestalt-robotics.com/en/home) - Service provider for intelligent automation.
@@ -503,8 +504,8 @@ DDS Security.
 - [ROBOOX](https://roboox.co/) - OPEN-SOURCE SOFTWARE ECOSYSTEM FOR CONSUMER ROBOTS.
 - [Rover Robotics](https://roverrobotics.com/) - Rugged, industrial-grade robots.
 - [Sony Corporation](https://www.sony.net/SonyInfo/technology/element/robotics/).
-- [synapticon](https://www.synapticon.com/technology) - ROS compatible motion control and drive products with efforts to support ROS2.
-- [Wind River](https://labs.windriver.com/ros2-for-vxworks/) - ROS2 for VxWorks.
+- [synapticon](https://www.synapticon.com/technology) - ROS compatible motion control and drive products with efforts to support ROS 2.
+- [Wind River](https://labs.windriver.com/ros2-for-vxworks/) - ROS 2 for VxWorks.
 
 ## Organizations
 
